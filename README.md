@@ -1,3 +1,9 @@
+## About Me
+
+I'm Bin Lu, a senior student in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), and I will continue to purse my master's degree in [IIOT](http://iiot.sjtu.edu.cn/) supervised by Professor [Xiaoying Gan](http://iwct.sjtu.edu.cn/Personal/xygan/index.htm) from Sepetember 2020. My research fields now are Spatial-Temporal big data mining, Graph Concolutional Network, Machine learning, and so on. 
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/RobinLu1209/robinlu1209.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
