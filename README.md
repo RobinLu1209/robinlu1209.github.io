@@ -4,10 +4,10 @@ I'm Bin Lu, a senior student in [Shanghai Jiao Tong University](http://en.sjtu.e
 
 ### Study Experience
 - 2016.09 ~ 2020.07 B.S in Information Engineering, Shanghai Jiao Tong University, Shanghai, China
-- 2020.07 ~ 2023.03 M.S in Electronic and Information Engineering, Shanghai Jiao Tong University, Shanghai, China
+- 2020.09 ~ 2023.03 M.S in Electronic and Information Engineering, Shanghai Jiao Tong University, Shanghai, China
 
 ### Internship Experience
-- 2019.06 ~ Now Edge Computing Software Intern, Intel Asia Pacific R & D Co., Ltd.
+- 2019.06 ~         Edge Computing Software Intern, Intel Asia Pacific R & D Co., Ltd.
 - 2019.01 ~ 2019.02 Information Technology Audit & Assurance Intern, Deloitte Touche Tohmatsu LLC
 - 2018.07 ~ 2018.08 Civil servant Assistant, Shanghai Putuo District Committee of the Communist Youth League
 
