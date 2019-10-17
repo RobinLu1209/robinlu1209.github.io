@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Bin Lu, a senior student in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), and I will continue to purse my master's degree in [IIOT](http://iiot.sjtu.edu.cn/) supervised by Professor [Xiaoying Gan](http://iwct.sjtu.edu.cn/Personal/xygan/index.htm) from Sepetember 2020. My research fields now are Spatial-Temporal big data mining, Graph Concolutional Network, Machine learning, and so on. 
+I'm Bin Lu, a senior student in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), and I will continue to purse my master's degree in [IIOT Research Center in SJTU](http://iiot.sjtu.edu.cn/) supervised by Professor [Xiaoying Gan](http://iwct.sjtu.edu.cn/Personal/xygan/index.htm) from Sepetember 2020. My research fields now are Spatial-Temporal big data mining, Graph Concolutional Network, Machine learning, and so on. 
 
 
 
