@@ -12,7 +12,7 @@ I'm Bin Lu, a senior student in [Shanghai Jiao Tong University](http://en.sjtu.e
 - Outstanding student cadres(2018.10), Three good students(2017.10), Outstanding Youth League members(2017.05), Scholarship for outstanding students(Triple) of Shanghai Jiaotong University.
 
 ### Internship
-- 2019.06 ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Edge Computing Software Intern, Intel Asia Pacific R & D Co., Ltd.
+- 2019.06 ~ NOW &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Edge Computing Software Intern, Intel Asia Pacific R & D Co., Ltd.
 - 2019.01 ~ 2019.02 &nbsp; Information Technology Audit & Assurance Intern, Deloitte Touche Tohmatsu LLC
 - 2018.07 ~ 2018.08 &nbsp; Civil servant Assistant, Shanghai Putuo District Committee of the Communist Youth League
 - 2018.01 ~ 2018.02 &nbsp; Program Intern, Panasonic Eco Solutions Information Equipment (Shanghai) Co., Ltd.
