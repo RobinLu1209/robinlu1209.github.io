@@ -20,7 +20,7 @@ I'm Bin Lu, a senior student in [Shanghai Jiao Tong University](http://en.sjtu.e
 ### Research Interests
 Graph Convolutional Network, Spatial-Temporal Data Mining, Machine Learning, Edge Computing
 
-### Program
+### Program Experience
 - 2019.03 ~ 2019.06 &nbsp; Crowdsourcing Mobile Weather Station based on NB-IoT, Ericsson (China) Communications Co.Ltd
 - 2019.03 ~ 2019.06 &nbsp; Food image fine-grained classification and edge inference based on Intel NCS, Intel Asia Pacific R & D Co., Ltd.
 - 2018.10 ~ 2018.12 &nbsp; Intelligent self balancing car based on ESP32 MUC, ESPRESSIF SYSTEMS (SHANGHAI) CO., Ltd.
