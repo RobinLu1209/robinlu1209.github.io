@@ -28,3 +28,6 @@ Graph Convolutional Network, Spatial-Temporal Data Mining, Machine Learning, Edg
 ### Student Affairs
 - 2016.10 ~ 2019.05 &nbsp; President, Student Career Development Union in Shanghai Jiao Tong University
 - 2019.10 ~ Present &nbsp; Member, Industry Research Association in Shanghai Jiao Tong University
+
+## Volunteers
+- 2017.07 ~ 2017.08 &nbsp; Rural education volunteer, Eryuan No.2 Middle School, Dali Bai Autonomous Prefecture, Yunnan Province
