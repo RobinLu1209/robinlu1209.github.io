@@ -22,6 +22,8 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 ### Publications
 - **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang, "Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting", *accepted by the 29th ACM International Conference on Information and Knowledge Management* (**CIKM 2020**).
 
+![Urban Traffic Flow Forecasting based on Graph Neural Network](images/ag_gcn.png)
+
 ### Program Experience
 - 2019.03 ~ 2019.06 &nbsp; Crowdsourcing Mobile Weather Station based on NB-IoT, Ericsson (China) Communications Co.Ltd
 - 2019.03 ~ 2019.06 &nbsp; Food image fine-grained classification and edge inference based on Intel NCS, Intel Asia Pacific R & D Co., Ltd.
