@@ -1,5 +1,3 @@
-[Link to another page](./another_page.html).
-
 ## About Me
 
 I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) supervised by Professor [Xiaoying Gan](http://iwct.sjtu.edu.cn/Personal/xygan/index.htm) from Sepetember 2020. My research fields now are spatial-temporal data mining, graph convolution network, crowdsensing. 
