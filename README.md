@@ -13,7 +13,7 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 - Outstanding student cadres(2018.10), Three good students(2017.10), Outstanding Youth League members(2017.05), Scholarship for outstanding students(Triple) of Shanghai Jiaotong University.
 
 ### Internship
-- 2020.04 ~ 2020.08 &nbsp; Ads Strategy Product Manager Intern, BytDance
+- 2020.04 ~ 2020.08 &nbsp; Ads Strategy Product Manager Intern, BytDance [为什么从“技术”转“产品”](./pages/why_rd2pm.html)
 - 2019.06 ~ 2020.01 &nbsp; Edge Computing Software Intern, Intel Asia Pacific R & D Co., Ltd.
 - 2019.01 ~ 2019.02 &nbsp; Information Technology Audit & Assurance Intern, Deloitte Touche Tohmatsu LLC
 - 2018.07 ~ 2018.08 &nbsp; Civil servant Assistant, Shanghai Putuo District Committee of the Communist Youth League
@@ -33,5 +33,5 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 - 2016.10 ~ 2019.05 &nbsp; President, Student Career Development Union in Shanghai Jiao Tong University
 - 2019.10 ~ Present &nbsp; Member, Industry Research Association in Shanghai Jiao Tong University
 
-## Volunteers
+### Volunteers
 - 2017.07 ~ 2017.08 &nbsp; Rural education volunteer, Eryuan No.2 Middle School, Dali Bai Autonomous Prefecture, Yunnan Province
