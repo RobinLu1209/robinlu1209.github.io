@@ -8,10 +8,7 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 
 ### Honor and Reward
 - 2018.05 &nbsp; Meritorious Winner, 2018 Mathematical Contest in Modeling, COMAP, supervised by Professor [Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/).
-<div align='center'>
-<img src='image/mcm2018.jpg' width=60% height=60% alt='Mathmatical Contest In Modeling'/>
-</div>
-
+![Mathmatical Contest In Modeling](image/mcm2018.jpg/scale/60)
 - 2019.08 &nbsp; First Prize, 2019 National University Internt of Things(IoT) Design Competition, Supervised by Senior-Engineer Jimin Xu and Professor [Haiming Jin](http://jhc.sjtu.edu.cn/~haimingjin/). 
 - Shanghai Honor Gradutes(上海市优秀毕业生)
 - Outstanding student cadres(2018.10), Three good students(2017.10), Outstanding Youth League members(2017.05), Scholarship for outstanding students(Triple) of Shanghai Jiaotong University.
