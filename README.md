@@ -1,3 +1,5 @@
+[中文版主页](./pages/ch.html)
+
 ## About Me
 
 I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) supervised by Professor [Xiaoying Gan](http://iwct.sjtu.edu.cn/Personal/xygan/index.htm) from Sepetember 2020. My research fields now are spatial-temporal data mining, graph convolution network, crowdsensing. 
@@ -9,7 +11,7 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 ### Honor and Reward
 - 2018.05 &nbsp; Meritorious Winner, 2018 Mathematical Contest in Modeling, COMAP, supervised by Professor [Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/).
 - 2019.08 &nbsp; First Prize, 2019 National University Internt of Things(IoT) Design Competition, Supervised by Senior-Engineer Jimin Xu and Professor [Haiming Jin](http://jhc.sjtu.edu.cn/~haimingjin/). 
-- Shanghai Honor Gradutes(上海市优秀毕业生)
+- Shanghai Honor Gradutes(上海市优秀毕业生) [我们的四年 | 卢彬：一步一遥，奋力奔跑！](https://mp.weixin.qq.com/s/B_4YIu3GbaOZ2MFFFHhpzg)
 - Outstanding student cadres(2018.10), Three good students(2017.10), Outstanding Youth League members(2017.05), Scholarship for outstanding students(Triple) of Shanghai Jiaotong University.
 
 ### Internship
