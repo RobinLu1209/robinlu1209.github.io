@@ -10,13 +10,21 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 
 ### Honor and Reward
 - 2018.05 &nbsp; Meritorious Winner, 2018 Mathematical Contest in Modeling, COMAP, supervised by Professor [Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/).
+
+![](./pages/images/mcm2018.jpg)
 - 2019.08 &nbsp; First Prize, 2019 National University Internt of Things(IoT) Design Competition, Supervised by Senior-Engineer Jimin Xu and Professor [Haiming Jin](http://jhc.sjtu.edu.cn/~haimingjin/). 
+
+![](./pages/images/iot_contest.jpg)
 - Shanghai Honor Gradutes(上海市优秀毕业生) News on WeChat: [【我们的四年】卢彬：一步一遥，奋力奔跑！](https://mp.weixin.qq.com/s/B_4YIu3GbaOZ2MFFFHhpzg)
+
+![](./pages/images/sh_graduate.jpg)
 - Outstanding student cadres(2018.10), Three good students(2017.10), Outstanding Youth League members(2017.05), Scholarship for outstanding students(Triple) of Shanghai Jiaotong University.
+
+![](./pages/images/honor.jpg)
 
 ### Internship
 - 2020.04 ~ 2020.08 &nbsp; Ads Strategy Product Manager Intern, BytDance [为什么从“技术”转“产品”](./pages/why_rd2pm.html)
-- 2019.06 ~ 2020.01 &nbsp; Edge Computing Software Intern, Intel Asia Pacific R & D Co., Ltd.
+- 2019.06 ~ 2020.01 &nbsp; Edge Computing Software Intern, Intel Asia Pacific R & D Co., Ltd. 
 - 2019.01 ~ 2019.02 &nbsp; Information Technology Audit & Assurance Intern, Deloitte Touche Tohmatsu LLC
 - 2018.07 ~ 2018.08 &nbsp; Civil servant Assistant, Shanghai Putuo District Committee of the Communist Youth League
 - 2018.01 ~ 2018.02 &nbsp; Program Intern, Panasonic Eco Solutions Information Equipment (Shanghai) Co., Ltd.
@@ -33,7 +41,10 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 
 ### Student Affairs
 - 2016.10 ~ 2019.05 &nbsp; President, Student Career Development Union in Shanghai Jiao Tong University
+
+![scdu](./pages/images/scdu.jpg)
 - 2019.10 ~ Present &nbsp; Member, Industry Research Association in Shanghai Jiao Tong University
 
 ### Volunteers
 - 2017.07 ~ 2017.08 &nbsp; Rural education volunteer, Eryuan No.2 Middle School, Dali Bai Autonomous Prefecture, Yunnan Province
+![avatar](./pages/images/zhijiao.jpg)
