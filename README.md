@@ -30,7 +30,7 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 - 2018.01 ~ 2018.02 &nbsp; Program Intern, Panasonic Eco Solutions Information Equipment (Shanghai) Co., Ltd.
 
 ### Publications
-- **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang, "Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting", *accepted by the 29th ACM International Conference on Information and Knowledge Management* (**CIKM 2020**).
+- **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang, "Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting", *accepted by the 29th ACM International Conference on Information and Knowledge Management* (**CIKM 2020**). [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3411894)
 
 ![Urban Traffic Flow Forecasting based on Graph Neural Network](images/ag_gcn.png)
 
