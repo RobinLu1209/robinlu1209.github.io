@@ -1,4 +1,4 @@
-[English Version](../.)
+[English Version](../.) [Google Scholar](https://scholar.google.com/citations?user=HsI7HPoAAAAJ&hl=zh-CN&oi=sra)
 
 ## 关于我
 

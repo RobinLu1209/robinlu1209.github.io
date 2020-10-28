@@ -1,4 +1,4 @@
-[中文版主页](./pages/ch.html)
+[中文版主页](./pages/ch.html) [Google Scholar](https://scholar.google.com/citations?user=HsI7HPoAAAAJ&hl=zh-CN&oi=sra)
 
 ## About Me
 
