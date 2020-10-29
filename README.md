@@ -23,7 +23,7 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 ![](./pages/images/honor.jpg)
 
 ### Internship
-- 2020.04 ~ 2020.08 &nbsp; Ads Strategy Product Manager Intern, BytDance [为什么从“技术”转“产品”](./pages/why_rd2pm.html)
+- 2020.04 ~ 2020.08 &nbsp; Ads Strategy Product Manager Intern, BytDance [为什么从“技术”转“产品”](https://mp.weixin.qq.com/s/WQJQjNz3IJkTZJIbATTwSw)
 - 2019.06 ~ 2020.01 &nbsp; Edge Computing Software Intern, Intel Asia Pacific R & D Co., Ltd. 
 - 2019.01 ~ 2019.02 &nbsp; Information Technology Audit & Assurance Intern, Deloitte Touche Tohmatsu LLC
 - 2018.07 ~ 2018.08 &nbsp; Civil servant Assistant, Shanghai Putuo District Committee of the Communist Youth League
