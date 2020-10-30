@@ -74,3 +74,8 @@
 
 ![avatar](images/zhijiao.jpg)
 
+## 联系方式
+如果你愿意和我有进一步的交流，欢迎与我联系。
+邮箱：robinlu1209@sjtu.edu.cn
+微信：RobinLu1209
+
