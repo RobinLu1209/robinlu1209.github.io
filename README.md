@@ -48,10 +48,10 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 ### Volunteers
 - 2017.07 ~ 2017.08 &nbsp; Rural education volunteer, Eryuan No.2 Middle School, Dali Bai Autonomous Prefecture, Yunnan Province
 
+![avatar](./pages/images/zhijiao.jpg)
+
 ## Contact
 Mail: robinlu1209@sjtu.edu.cn
 WeChat: RobinLu1209
-
-![avatar](./pages/images/zhijiao.jpg)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-MrFRY-MBf5P9USuoAfhOtuc63TCc8lVoFP1mPplWDg"></script>
