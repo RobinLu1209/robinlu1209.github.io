@@ -43,7 +43,7 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 - 2016.10 ~ 2019.05 &nbsp; President, Student Career Development Union in Shanghai Jiao Tong University
 
 ![scdu](./pages/images/scdu.jpg)
-- 2019.10 ~ Present &nbsp; Member, Industry Research Association in Shanghai Jiao Tong University
+- 2019.10 ~ Present &nbsp; Member, PM Department, [Project String](https://www.zhihu.com/people/liu-bang-zhi-pin)
 
 ### Volunteers
 - 2017.07 ~ 2017.08 &nbsp; Rural education volunteer, Eryuan No.2 Middle School, Dali Bai Autonomous Prefecture, Yunnan Province
