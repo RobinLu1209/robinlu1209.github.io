@@ -1,4 +1,4 @@
-[English Version](../.)  | [Google Scholar](https://scholar.google.com/citations?user=HsI7HPoAAAAJ&hl=zh-CN&oi=sra)
+[English Version](../.) | [LinkedIn](https://www.linkedin.com/in/bin-robin-lu-a9b661142/) | [Google Scholar](https://scholar.google.com/citations?user=HsI7HPoAAAAJ&hl=zh-CN&oi=sra)
 
 ## 关于我
 

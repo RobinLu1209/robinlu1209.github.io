@@ -1,4 +1,4 @@
-[中文版主页](./pages/ch.html)  | [Google Scholar](https://scholar.google.com/citations?user=HsI7HPoAAAAJ&hl=zh-CN&oi=sra)
+[中文版主页](./pages/ch.html) | [LinkedIn](https://www.linkedin.com/in/bin-robin-lu-a9b661142/) | [Google Scholar](https://scholar.google.com/citations?user=HsI7HPoAAAAJ&hl=zh-CN&oi=sra)
 
 ## About Me
 
