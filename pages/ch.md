@@ -43,7 +43,7 @@
 > 带领团队利用PDCA循环管理理论对改进治具提高“曲悦622”配线生产效率与优化WH4415/4615单品生产包装一体化项目进行精益生产分析，带领PESIESH获得当年近10家事业部项目实习生第二名的好成绩，并作为2018年优秀项目实习生代表在夏季项目进行分享。
 
 ### 发表著作
-- **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang, "Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting", *accepted by the 29th ACM International Conference on Information and Knowledge Management* (**CIKM 2020**). [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3411894)
+- **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang, "Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting", *accepted by the 29th ACM International Conference on Information and Knowledge Management* (**CIKM 2020**). [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3411894) (中稿率: 21% (193/920))
 
 ![Urban Traffic Flow Forecasting based on Graph Neural Network](../images/ag_gcn.png)
 
