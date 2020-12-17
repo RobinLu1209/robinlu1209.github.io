@@ -53,7 +53,8 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 ## Contact
 Mail: robinlu1209@sjtu.edu.cn
 WeChat: RobinLu1209
+
 WeChat Official Accounts(Please scan the QR code below)
-![avatar](.images/wechat_qrcode.ipg)
+![avatar](images/wechat_qrcode.ipg)
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=-MrFRY-MBf5P9USuoAfhOtuc63TCc8lVoFP1mPplWDg'></script>
