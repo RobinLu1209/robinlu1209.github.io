@@ -55,6 +55,6 @@ Mail: robinlu1209@sjtu.edu.cn
 WeChat: RobinLu1209
 
 WeChat Official Accounts(Please scan the QR code below)
-![avatar](images/wechat_qrcode.ipg)
+![avatar](./pages/images/wechat_qrcode.jpg)
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=-MrFRY-MBf5P9USuoAfhOtuc63TCc8lVoFP1mPplWDg'></script>
