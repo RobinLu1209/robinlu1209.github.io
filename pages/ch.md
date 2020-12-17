@@ -81,3 +81,5 @@
 邮箱：robinlu1209@sjtu.edu.cn
 微信：RobinLu1209
 
+微信公众号：与你炉边谈话（欢迎扫描如下二维码关注我哦）
+![wechat](images/wechat_qrcode.jpg)
