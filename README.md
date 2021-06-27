@@ -8,6 +8,15 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 - 2016.09 ~ 2020.07 &nbsp; B.S in Outstanding Engineer Class, Information Engineering(with honors), Shanghai Jiao Tong University, Shanghai, China
 - 2020.09 ~ 2023.03 &nbsp; M.S in Electronic and Information Engineering, Shanghai Jiao Tong University, Shanghai, China
 
+### Internship
+- 2021.01 ~ 2021.07 &nbsp; AI Product Manager Intern, Tencent [4000+字警告 | B端AI产品之我见](https://mp.weixin.qq.com/s/SfPIf1sex2oVfN6-Id9dPw)
+- 2020.04 ~ 2020.08 &nbsp; Ads Strategy Product Manager Intern, BytDance [为什么从“技术”转“产品”](https://mp.weixin.qq.com/s/WQJQjNz3IJkTZJIbATTwSw)
+- 2019.06 ~ 2020.01 &nbsp; Edge Computing Software Intern, Intel Asia Pacific R & D Co., Ltd.
+- 2019.01 ~ 2019.02 &nbsp; Information Technology Audit & Assurance Intern, Deloitte Touche Tohmatsu LLC
+- 2018.07 ~ 2018.08 &nbsp; Civil servant Assistant, Shanghai Putuo District Committee of the Communist Youth League
+- 2018.01 ~ 2018.02 &nbsp; Program Intern, Panasonic Eco Solutions Information Equipment (Shanghai) Co., Ltd.
+
+
 ### Honor and Reward
 - 2018.05 &nbsp; Meritorious Winner, 2018 Mathematical Contest in Modeling, COMAP, supervised by Professor [Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/).
 
@@ -22,12 +31,6 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 
 ![](./pages/images/honor.jpg)
 
-### Internship
-- 2020.04 ~ 2020.08 &nbsp; Ads Strategy Product Manager Intern, BytDance [为什么从“技术”转“产品”](https://mp.weixin.qq.com/s/WQJQjNz3IJkTZJIbATTwSw)
-- 2019.06 ~ 2020.01 &nbsp; Edge Computing Software Intern, Intel Asia Pacific R & D Co., Ltd. 
-- 2019.01 ~ 2019.02 &nbsp; Information Technology Audit & Assurance Intern, Deloitte Touche Tohmatsu LLC
-- 2018.07 ~ 2018.08 &nbsp; Civil servant Assistant, Shanghai Putuo District Committee of the Communist Youth League
-- 2018.01 ~ 2018.02 &nbsp; Program Intern, Panasonic Eco Solutions Information Equipment (Shanghai) Co., Ltd.
 
 ### Publications
 - **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang, "Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting", *accepted by the 29th ACM International Conference on Information and Knowledge Management* (**CIKM 2020**). [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3411894) (Acceptence Rate: 21% (193/920))
