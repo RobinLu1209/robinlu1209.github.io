@@ -9,7 +9,7 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 - 2020.09 ~ 2023.03 &nbsp; M.S in Electronic and Information Engineering, Shanghai Jiao Tong University, Shanghai, China
 
 ### Internship
-- 2021.01 ~ 2021.07 &nbsp; AI Product Manager Intern, Tencent [4000+字警告 | B端AI产品之我见](https://mp.weixin.qq.com/s/SfPIf1sex2oVfN6-Id9dPw)
+- 2021.01 ~ 2021.07 &nbsp; AI Product Manager Intern, Tencent [B端AI产品之我见](https://mp.weixin.qq.com/s/SfPIf1sex2oVfN6-Id9dPw)
 - 2020.04 ~ 2020.08 &nbsp; Ads Strategy Product Manager Intern, BytDance [为什么从“技术”转“产品”](https://mp.weixin.qq.com/s/WQJQjNz3IJkTZJIbATTwSw)
 - 2019.06 ~ 2020.01 &nbsp; Edge Computing Software Intern, Intel Asia Pacific R & D Co., Ltd.
 - 2019.01 ~ 2019.02 &nbsp; Information Technology Audit & Assurance Intern, Deloitte Touche Tohmatsu LLC
