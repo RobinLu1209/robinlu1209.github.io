@@ -2,9 +2,8 @@
 
 I'm Bin Lu, a 2nd-year PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Professor [Xiaoying Gan](http://iwct.sjtu.edu.cn/Personal/xygan/index.htm) from Sepetember 2020. I received BEng from the same university with honors. My research fields now are spatial-temporal data mining, graph convolution network, crowdsensing.
 
-### Publications
-[Google Scholar](https://scholar.google.com/citations?user=HsI7HPoAAAAJ&hl=zh-CN&oi=sra)
-- **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang, "Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting", *accepted by the 29th ACM International Conference on Information and Knowledge Management* (**CIKM 2020**). [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3411894) (Acceptence Rate: 21% (193/920))
+### Publications [Google Scholar](https://scholar.google.com/citations?user=HsI7HPoAAAAJ&hl=zh-CN&oi=sra)
+- **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang, "Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting", *accepted by the 29th ACM International Conference on Information and Knowledge Management* (**CIKM 2020**). [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3411894) (Acceptence Rate: 21% (193/920), CCF-B)
 
 ![Urban Traffic Flow Forecasting based on Graph Neural Network](images/ag_gcn.png)
 
