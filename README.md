@@ -1,5 +1,3 @@
-# Bin Lu (卢彬)
-
 ## About Me
 
 I'm Bin Lu, a 2nd-year PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Professor [Xiaoying Gan](http://iwct.sjtu.edu.cn/Personal/xygan/index.htm) from Sepetember 2020. I received BEng from the same university with honors in July 2020. My research fields now are spatial-temporal data mining, graph convolution network, crowdsensing.
