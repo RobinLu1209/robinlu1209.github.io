@@ -1,4 +1,4 @@
-# Bin Lu (卢 彬)
+# Bin Lu (卢彬)
 
 ## About Me
 
