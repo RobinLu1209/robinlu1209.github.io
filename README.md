@@ -10,6 +10,7 @@ I'm Bin Lu, a 2nd-year PhD student in [IIOT Research Center](http://iiot.sjtu.ed
 ![Urban Traffic Flow Forecasting based on Graph Neural Network](images/ag_gcn.png)
 
 ## Awards
+- **National Scholarship**(国家奖学金). 2021
 - Outstanding Teaching Assistant Award, Center for Teaching and Learning Development of SJTU. 2021
 - **Shanghai Honor Graduates**(上海市优秀毕业生), SJTU. 2020
 - ACM SIGIR Student Travel Grant for CIKM, ACM SIGIR. 2020
