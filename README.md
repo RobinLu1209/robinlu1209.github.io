@@ -16,7 +16,7 @@ I'm Bin Lu, a 2nd-year PhD student in [IIOT Research Center](http://iiot.sjtu.ed
 - ACM SIGIR Student Travel Grant for CIKM, ACM SIGIR. 2020
 
 ## Competitions
-- First Prize, National University Internt of Things(IoT) Design Competition, supervised by Professor Xiaoying Gan. 2021
+- First Prize, National University Internt of Things(IoT) Design Competition, supervised by Professor Xiaoying Gan. 2021 [NEWS](https://news.sjtu.edu.cn/jdyw/20210927/158841.html)
 - Meritorious Winner, Mathematical Contest in Modeling, COMAP, supervised by Professor [Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/). 2019
 - First Prize, National University Internt of Things(IoT) Design Competition, supervised by Senior-Engineer Jimin Xu and Associate Professor [Haiming Jin](http://jhc.sjtu.edu.cn/~haimingjin/). 2019
 
