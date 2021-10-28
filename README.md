@@ -28,7 +28,7 @@ I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/)
 - Teaching assistant of EE234 Communication Theory (2020, 2021), ES342 RF Microelectronics (2021) with [excellent awards](http://ctld.sjtu.edu.cn/news/811).
 
 ## Contact
-Room 443, SEIEE Building No.1, Dongchuan Road 800, Shanghai, China
+Room 441, SEIEE Building No.1, Dongchuan Road 800, Shanghai, China
 Email: robinlu1209 at sjtu dot edu dot cn
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=-MrFRY-MBf5P9USuoAfhOtuc63TCc8lVoFP1mPplWDg'></script>
