@@ -1,11 +1,11 @@
 ## About Me
 
-I'm Bin Lu, a 2nd-year PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Professor [Xiaoying Gan](http://iwct.sjtu.edu.cn/Personal/xygan/index.htm) from Sepetember 2020. I received BEng from the same university with honors in July 2020. My research fields now are spatial-temporal data mining, graph convolution network, crowdsensing.
+I'm Bin Lu, a master student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Professor [Xiaoying Gan](http://iwct.sjtu.edu.cn/Personal/xygan/index.htm). I received BEng from Shanghai Jiao Tong University with honors in July 2020 and recommended for the master degree from Sepetember 2020. I will transfer to be a PhD student in March, 2022. My research fields now are spatial-temporal data mining, graph convolution network, crowdsensing.
 
 ## Publications [Google Scholar](https://scholar.google.com/citations?user=HsI7HPoAAAAJ&hl=zh-CN&oi=sra)
-**Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang, "Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting", in *Proceedings of the 29th ACM International Conference on Information and Knowledge Management* (**CIKM 2020**), 2020, 1025-1034. [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3411894)[\[code\]](https://github.com/RobinLu1209/STAG-GCN) (Acceptence Rate: 21%, EI, CCF-B)
+**Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang, "Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting", in *Proceedings of the 29th ACM International Conference on Information and Knowledge Management* (**CIKM**), 2020, 1025-1034. [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3411894)[\[code\]](https://github.com/RobinLu1209/STAG-GCN) (Acceptence Rate: 21%, EI, CCF-B)
 
-**Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Xinbing Wang, Haisong Zhang, “Make More Connections: Urban Traffic Flow Forecasting with Spatiotemporal Adaptive Gated Graph Convolution Network,” to appear in *ACM Transactions on Intelligent Systems and Technology* (**TIST**), 2021. (SCI, 交大A类期刊)
+**Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Xinbing Wang, Haisong Zhang, “Make More Connections: Urban Traffic Flow Forecasting with Spatiotemporal Adaptive Gated Graph Convolution Network,” to appear in *ACM Transactions on Intelligent Systems and Technology* (**ACM TIST**), 2021. (SCI, 交大A类期刊)
 
 ![Urban Traffic Flow Forecasting based on Graph Neural Network](images/ag_gcn.png)
 
