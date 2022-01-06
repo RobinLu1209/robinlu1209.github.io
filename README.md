@@ -7,7 +7,7 @@ I received bachelor from Shanghai Jiao Tong University with honors in July 2020 
 ## Publications [Google Scholar](https://scholar.google.com/citations?user=HsI7HPoAAAAJ&hl=zh-CN&oi=sra)
 **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang, "Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting", in *Proceedings of the 29th ACM International Conference on Information and Knowledge Management* (**CIKM**), 2020, 1025-1034. [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3411894)[\[code\]](https://github.com/RobinLu1209/STAG-GCN)[\[slide\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CIKM_fp0393_PPT.pdf) (Acceptence Rate: 21%, EI, CCF-B, included in open-source project [LibCity](https://github.com/LibCity/Bigscity-LibCity))
 
-**Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Xinbing Wang, Haisong Zhang, “Make More Connections: Urban Traffic Flow Forecasting with Spatiotemporal Adaptive Gated Graph Convolution Network,” to appear in *ACM Transactions on Intelligent Systems and Technology* (**ACM TIST**), 2021. (SCI，交大A类期刊，IF=4.654)
+**Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Xinbing Wang, Haisong Zhang, “Make More Connections: Urban Traffic Flow Forecasting with Spatiotemporal Adaptive Gated Graph Convolution Network,” to appear in *ACM Transactions on Intelligent Systems and Technology* (**ACM TIST**), 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3488902) (SCI，交大A类期刊，IF=4.654)
 
 ![Urban Traffic Flow Forecasting based on Graph Neural Network](images/ag_gcn.png)
 
