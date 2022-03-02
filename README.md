@@ -12,6 +12,10 @@ I received bachelor from Shanghai Jiao Tong University with honors in July 2020 
 
 ![Urban Traffic Flow Forecasting based on Graph Neural Network](images/ag_gcn.png)
 
+## Project
+
+**DDE DataStore -- Deep-time Digital Earth (DDE) Program** The [Deep-time Digital Earth (DDE) Program](https://www.ddeworld.org/) is the first 'big science program' initiated by the International Union of Geological Sciences (IUGS) that will provide new opportunities and directions for the development of Earth Sciences. DDE DataStore is an important component of Deep-time Digital Earth (DDE) Program, aiming to discover and integrate global geological data. At present, DDE DataStore has obtained more than 1 million websites based on 15,000 keywords and found more than 10,000 geological data.[\[website\]](https://datastore.acemap.info/#/)
+
 ## Awards
 - **National Scholarship**(国家奖学金). 2021
 - Outstanding Teaching Assistant Award, Center for Teaching and Learning Development of SJTU. 2021
