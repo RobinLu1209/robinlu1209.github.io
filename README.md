@@ -21,7 +21,7 @@ I received bachelor from Shanghai Jiao Tong University with honors in July 2020 
 - Outstanding Teaching Assistant Award, Center for Teaching and Learning Development of SJTU. 2021
 - **Shanghai Honor Graduates**(上海市优秀毕业生), SJTU. 2020
 - ACM SIGIR Student Travel Grant for CIKM, ACM SIGIR. 2020
-- Excellent Intern, Intel Asia-Pacific Research & Development Ltd., 2019
+- Excellent Intern, Intel Asia-Pacific Research \& Development Ltd., 2019
 
 ## Competitions
 - First Prize, National University Internt of Things(IoT) Design Competition, supervised by Professor Xiaoying Gan. 2021 [NEWS](https://news.sjtu.edu.cn/jdyw/20210927/158841.html)
