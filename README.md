@@ -34,6 +34,7 @@ I received bachelor from Shanghai Jiao Tong University with honors in July 2020 
 ### Journal Reviewer
 - China Communications (《中国通信》英文版)
 - Financial Innovation
+- Physica A: Statistical Mechanics and its Applications
 
 ## Misc
 - Teaching assistant of EE234 Communication Theory (2020, 2021), ES342 RF Microelectronics (2021,2022) with [excellent awards](http://ctld.sjtu.edu.cn/news/811).
