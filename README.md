@@ -1,7 +1,7 @@
 # Bin Lu's homepage
 
 ## Biography
-I'm currently a PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Professor [Xiaoying Gan](https://iwct.sjtu.edu.cn/Personal/xygan/). IIOT is a big family, and I am also very glad to work with Professor [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/), Associate Professor [Haiming Jin](https://jhc.sjtu.edu.cn/~haimingjin/) and Associate Professor [Luoyi Fu](https://www.cs.sjtu.edu.cn/~fu-ly/index.html). 
+I'm currently a PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Professor [Xiaoying Gan](https://iwct.sjtu.edu.cn/Personal/xygan/) and Professor [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/). IIOT is a big family, and I am also very glad to work with Associate Professor [Haiming Jin](https://jhc.sjtu.edu.cn/~haimingjin/) and Associate Professor [Luoyi Fu](https://www.cs.sjtu.edu.cn/~fu-ly/index.html). 
 
 I received bachelor from Shanghai Jiao Tong University with honors in July 2020 and was recommended for the master degree from Sepetember 2020. Additionally, I transfer to be a PhD student (硕博连读) in March, 2022. My research fields now are graph mining, few-shot learning, spatial-temporal data mining.
 
