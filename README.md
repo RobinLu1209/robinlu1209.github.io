@@ -7,9 +7,9 @@ I received bachelor from Shanghai Jiao Tong University with honors in July 2020 
 
 ## Publications
 
-**Bin Lu**, Xiaoying Gan, Lina Yang, Weinan Zhang, Luoyi Fu, Xinbing Wang, "Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation", accepted by *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**KDD**), 2022.
+**Bin Lu**, Xiaoying Gan, Lina Yang, Weinan Zhang, Luoyi Fu, Xinbing Wang, "Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation", accepted by *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**KDD**), 2022. (CCF-A)
 
-**Bin Lu**, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang, "Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer", accepted by *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**KDD**), 2022.
+**Bin Lu**, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang, "Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer", accepted by *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**KDD**), 2022. (CCF-A)
 
 **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang, "Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting", in *Proceedings of the 29th ACM International Conference on Information and Knowledge Management* (**CIKM**), 2020, 1025-1034. [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3411894)[\[code\]](https://github.com/RobinLu1209/STAG-GCN)[\[slide\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CIKM_fp0393_PPT.pdf) (Acceptence Rate: 21%, EI, CCF-B, included in open-source project [LibCity](https://github.com/LibCity/Bigscity-LibCity))
 
