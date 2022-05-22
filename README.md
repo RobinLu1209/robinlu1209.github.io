@@ -7,7 +7,11 @@ I'm currently a PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) 
 
 **Bin Lu**, Xiaoying Gan, Lina Yang, Weinan Zhang, Luoyi Fu, Xinbing Wang, "Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation", accepted by *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**KDD**), 2022. (CCF-A)
 
+![Geometer](images/Geometer.png)
+
 **Bin Lu**, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang, "Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer", accepted by *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**KDD**), 2022. (CCF-A)
+
+![ST-GFSL](images/ST-GFSL.png)
 
 **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang, "Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting", in *Proceedings of the 29th ACM International Conference on Information and Knowledge Management* (**CIKM**), 2020, 1025-1034. [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3411894)[\[code\]](https://github.com/RobinLu1209/STAG-GCN)[\[slide\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CIKM_fp0393_PPT.pdf) (CCF-B, included in open-source project [LibCity](https://github.com/LibCity/Bigscity-LibCity))
 
