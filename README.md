@@ -26,9 +26,9 @@ I'm currently a PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) 
 ![dde datastore](images/dde_datastore.png)
 
 ## Awards
-- **National Scholarship**(国家奖学金). 2021
+- **National Scholarship** (国家奖学金). 2021
 - Outstanding Teaching Assistant Award, Center for Teaching and Learning Development of SJTU. 2021
-- **Shanghai Honor Graduates**(上海市优秀毕业生), SJTU. 2020
+- **Shanghai Honor Graduates** (上海市优秀毕业生), SJTU. 2020
 - ACM SIGIR Student Travel Grant for CIKM, ACM SIGIR. 2020
 - Excellent Intern, Intel Asia-Pacific Research \& Development Ltd., 2019
 
