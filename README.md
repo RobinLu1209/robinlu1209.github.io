@@ -5,11 +5,11 @@ I'm currently a PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) 
 
 ## Publications
 
-**Bin Lu**, Xiaoying Gan, Lina Yang, Weinan Zhang, Luoyi Fu, Xinbing Wang, "Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation", accepted by *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**KDD**), 2022. (CCF-A)
+**Bin Lu**, Xiaoying Gan, Lina Yang, Weinan Zhang, Luoyi Fu, Xinbing Wang, "Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation", accepted by *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**KDD**), 2022. (CCF-A) [\[arxiv\]](https://arxiv.org/abs/2205.13954)
 
 ![Geometer](images/Geometer.png)
 
-**Bin Lu**, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang, "Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer", accepted by *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**KDD**), 2022. (CCF-A)
+**Bin Lu**, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang, "Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer", accepted by *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**KDD**), 2022. (CCF-A) [\[arxiv\]](https://arxiv.org/abs/2205.13947)
 
 ![ST-GFSL](images/ST-GFSL.png)
 
