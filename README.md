@@ -9,13 +9,13 @@ I'm currently a PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) 
  
   **Bin Lu**, Xiaoying Gan, Lina Yang, Weinan Zhang, Luoyi Fu, Xinbing Wang
   
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A)
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. **(CCF-A)**
 
 - **\[KDD 2022\] Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer** [\[arxiv\]](https://arxiv.org/abs/2205.13947)[\[code\]](https://github.com/RobinLu1209/ST-GFSL)
 
   **Bin Lu**, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang
   
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A)
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. **(CCF-A)**
  
 - **\[ACM TIST 2022\] Make More Connections: Urban Traffic Flow Forecasting with Spatiotemporal Adaptive Gated Graph Convolution Network** [\[paper\]](https://dl.acm.org/doi/10.1145/3488902)
 
