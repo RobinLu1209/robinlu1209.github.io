@@ -9,7 +9,7 @@ I'm currently a PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) 
 **Bin Lu**, Xiaoying Gan, Lina Yang, Weinan Zhang, Luoyi Fu, Xinbing Wang\
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A, Oral)
 
-**[\[KDD 2022\]](https://arxiv.org/abs/2205.13947) Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer** [\[arxiv\]](https://arxiv.org/abs/2205.13947)\[\[code\]](https://github.com/RobinLu1209/ST-GFSL)[\[slide\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CrossCityTransfer-PPT.pdf)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CrossCityTransfer-poster.pdf) \
+**[\[KDD 2022\]](https://arxiv.org/abs/2205.13947) Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer** [\[arxiv\]](https://arxiv.org/abs/2205.13947)[\[code\]](https://github.com/RobinLu1209/ST-GFSL)[\[slide\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CrossCityTransfer-PPT.pdf)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CrossCityTransfer-poster.pdf) \
 **Bin Lu**, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang\
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A, Oral)
  
