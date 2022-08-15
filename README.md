@@ -5,7 +5,7 @@ I'm currently a PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) 
 
 ## Publications
 
-**[\[KDD 2022\]](https://dl.acm.org/doi/10.1145/3534678.3539280) Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation** [\[arxiv\]](https://arxiv.org/abs/2205.13954)[\[code\]](https://github.com/RobinLu1209/Geometer)[\[paper]\](https://dl.acm.org/doi/10.1145/3534678.3539280)[\[slide\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/Geometer-PPT.pdf)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/Geometer-poster.pdf)[\[media\]](https://mp.weixin.qq.com/s/Rbuqlpw5NpBn_5r-GPAJxQ) \
+**[\[KDD 2022\]](https://dl.acm.org/doi/10.1145/3534678.3539280) Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation** [\[arxiv\]](https://arxiv.org/abs/2205.13954)[\[code\]](https://github.com/RobinLu1209/Geometer)[\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539280)[\[slide\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/Geometer-PPT.pdf)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/Geometer-poster.pdf)[\[media\]](https://mp.weixin.qq.com/s/Rbuqlpw5NpBn_5r-GPAJxQ) \
 **Bin Lu**, Xiaoying Gan, Lina Yang, Weinan Zhang, Luoyi Fu, Xinbing Wang\
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A, Oral)
 
