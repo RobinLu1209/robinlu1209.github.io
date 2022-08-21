@@ -7,11 +7,11 @@ I'm currently a PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) 
 
 **[\[KDD 2022\]](https://dl.acm.org/doi/10.1145/3534678.3539280) Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation** [\[arxiv\]](https://arxiv.org/abs/2205.13954)[\[code\]](https://github.com/RobinLu1209/Geometer)[\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539280)[\[slide\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/Geometer-PPT.pdf)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/Geometer-poster.pdf)[\[media\]](https://mp.weixin.qq.com/s/Rbuqlpw5NpBn_5r-GPAJxQ) \
 **Bin Lu**, Xiaoying Gan, Lina Yang, Weinan Zhang, Luoyi Fu, Xinbing Wang\
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A, Oral)
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A, Oral, Research Track)
 
 **[\[KDD 2022\]](https://dl.acm.org/doi/10.1145/3534678.3539281) Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer** [\[arxiv\]](https://arxiv.org/abs/2205.13947)[\[code\]](https://github.com/RobinLu1209/ST-GFSL)[\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539281)[\[slide\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CrossCityTransfer-PPT.pdf)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CrossCityTransfer-poster.pdf) \
 **Bin Lu**, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang\
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A, Oral)
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A, Oral, Research Track)
  
 **[\[ACM TIST 2022\]](https://dl.acm.org/doi/10.1145/3488902) Make More Connections: Urban Traffic Flow Forecasting with Spatiotemporal Adaptive Gated Graph Convolution Network** [\[paper\]](https://dl.acm.org/doi/10.1145/3488902)\
 **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Xinbing Wang, Haisong Zhang\
