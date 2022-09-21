@@ -3,7 +3,7 @@
 ## Biography
 I'm currently a PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Professor [Xiaoying Gan](https://iiot.sjtu.edu.cn/#/xygan) and Professor [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/). I received bachelor from Shanghai Jiao Tong University with honors in July 2020 and was recommended for the master degree from Sepetember 2020. Additionally, I transfer to be a PhD student (硕博连读) in March, 2022. My research fields now are graph mining, few-shot learning, spatial-temporal data mining.
 
-欢迎对图神经网络、城市计算、知识迁移等方向感兴趣的交大PRP/大创/暑期实习/毕业设计同学与我取得联系，希望同学熟悉Python等编程语言，勤奋认真，学有余力，对学术研究有热情！
+欢迎对图神经网络、城市计算、知识迁移等方向感兴趣的交大PRP/大创/暑期实习/毕业设计同学与我取得联系。希望同学熟悉Python等编程语言，对深度学习基本算法与代码框架有所了解更佳，勤奋认真，学有余力，对学术研究有热情！
 
 ## Publications
 
@@ -35,7 +35,7 @@ ACM International Conference on Information and Knowledge Management, 2020. (CCF
 - Outstanding Teaching Assistant Award, Center for Teaching and Learning Development of SJTU. 2021
 - **Shanghai Honor Graduates** (上海市优秀毕业生), SJTU. 2020
 - ACM SIGIR Student Travel Grant for CIKM, ACM SIGIR. 2020
-- Excellent Intern, Intel Asia-Pacific Research \& Development Ltd., 2019
+- Excellent Intern, Intel Asia-Pacific Research & Development Ltd., 2019
 
 ## Competitions
 - First Prize, National University Internt of Things (IoT) Design Competition, supervised by Professor Xiaoying Gan. 2021 [NEWS](https://news.sjtu.edu.cn/jdyw/20210927/158841.html)
