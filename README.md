@@ -3,6 +3,8 @@
 ## Biography
 I'm currently a PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Professor [Xiaoying Gan](https://iiot.sjtu.edu.cn/#/xygan) and Professor [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/). I received bachelor from Shanghai Jiao Tong University with honors in July 2020 and was recommended for the master degree from Sepetember 2020. Additionally, I transfer to be a PhD student (硕博连读) in March, 2022. My research fields now are graph mining, few-shot learning, spatial-temporal data mining.
 
+欢迎对图神经网络、城市计算、知识迁移等方向感兴趣的交大PRP/大创/暑期实习/毕业设计同学与我取得联系，希望同学熟悉Python等编程语言，勤奋认真，学有余力，对学术研究有热情！
+
 ## Publications
 
 **[\[KDD 2022\]](https://dl.acm.org/doi/10.1145/3534678.3539280) Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation** [\[arxiv\]](https://arxiv.org/abs/2205.13954)[\[code\]](https://github.com/RobinLu1209/Geometer)[\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539280)[\[slide\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/Geometer-PPT.pdf)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/Geometer-poster.pdf)[\[media\]](https://mp.weixin.qq.com/s/Rbuqlpw5NpBn_5r-GPAJxQ) \
