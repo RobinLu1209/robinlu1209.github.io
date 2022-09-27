@@ -31,6 +31,7 @@ ACM International Conference on Information and Knowledge Management, 2020. (CCF
 ![dde datastore](images/dde_datastore.png)
 
 ## Awards
+- **National Scholarship** (国家奖学金). 2022
 - **National Scholarship** (国家奖学金). 2021
 - Outstanding Teaching Assistant Award, Center for Teaching and Learning Development of SJTU. 2021
 - **Shanghai Honor Graduates** (上海市优秀毕业生), SJTU. 2020
