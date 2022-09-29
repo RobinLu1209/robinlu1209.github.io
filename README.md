@@ -49,8 +49,11 @@ ACM International Conference on Information and Knowledge Management, 2020. (CCF
 - Financial Innovation
 - Physica A: Statistical Mechanics and its Applications
 
-## Misc
-- Teaching assistant of EE234 Communication Theory (2020,2021,2022), ES342 RF Microelectronics (2021,2022), ICE2604 Introduction to Engineering for Electronic Information (2022) with [excellent awards](http://ctld.sjtu.edu.cn/news/811).
+## Teaching Assistant
+- EE234 Communication Theory (2020,2021,2022)
+- ES342 RF Microelectronics (2021,2022)
+- ICE2604 Introduction to Engineering for Electronic Information (2022) 
+- Teaching Assistant with [excellent awards](http://ctld.sjtu.edu.cn/news/811).
 
 ## Contact
 Room 441, SEIEE Building No.1, Dongchuan Road 800, Shanghai, China
