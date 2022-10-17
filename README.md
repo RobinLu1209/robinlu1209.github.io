@@ -26,7 +26,7 @@ ACM International Conference on Information and Knowledge Management, 2020. (CCF
 
 ## Project
 
-**DDE DataStore -- Deep-time Digital Earth (DDE) Program** The [Deep-time Digital Earth (DDE) Program](https://www.ddeworld.org/) is the first 'big science program' initiated by the International Union of Geological Sciences (IUGS) that will provide new opportunities and directions for the development of Earth Sciences. DDE DataStore is an important component of Deep-time Digital Earth (DDE) Program, aiming to discover and integrate global geological data. At present, DDE DataStore has obtained more than 1 million websites based on 15,000 keywords and found more than 10,000 geological data.[\[website\]](https://datastore.acemap.info/#/)
+**DDE DataStore -- Deep-time Digital Earth (DDE) Program** The [Deep-time Digital Earth (DDE) Program](https://www.ddeworld.org/) is the first 'big science program' initiated by the International Union of Geological Sciences (IUGS) that will provide new opportunities and directions for the development of Earth Sciences. DDE DataStore is an important component of Deep-time Digital Earth (DDE) Program, aiming to discover and integrate global geological data. At present, DDE DataStore has obtained more than 1 million websites based on 15,000 keywords and found more than 10,000 geological data.[\[website\]](https://datastore.acemap.info/#/)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/blob/master/files/datastore-poster.pdf)
 
 ![dde datastore](images/dde_datastore.png)
 
@@ -39,7 +39,7 @@ ACM International Conference on Information and Knowledge Management, 2020. (CCF
 - Excellent Intern, Intel Asia-Pacific Research & Development Ltd., 2019
 
 ## Competitions
-- First Prize, National University Internt of Things (IoT) Design Competition, supervised by Professor Xiaoying Gan. 2021 [NEWS](https://news.sjtu.edu.cn/jdyw/20210927/158841.html)
+- First Prize, National University Internt of Things (IoT) Design Competition, supervised by Professor Xiaoying Gan. 2021 [\[NEWS\]](https://news.sjtu.edu.cn/jdyw/20210927/158841.html)
 - Meritorious Winner, Mathematical Contest in Modeling, COMAP, supervised by Professor [Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/). 2019
 - First Prize, National University Internt of Things(IoT) Design Competition, supervised by Senior-Engineer Jimin Xu and Associate Professor [Haiming Jin](http://jhc.sjtu.edu.cn/~haimingjin/). 2019
 
