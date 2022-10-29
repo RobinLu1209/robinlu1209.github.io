@@ -26,7 +26,7 @@ ACM International Conference on Information and Knowledge Management, 2020. (CCF
 
 ## Project
 
-**DDE DataStore -- Deep-time Digital Earth (DDE) Program** The [Deep-time Digital Earth (DDE) Program](https://www.ddeworld.org/) is the first 'big science program' initiated by the International Union of Geological Sciences (IUGS) that will provide new opportunities and directions for the development of Earth Sciences. DDE DataStore is an important component of Deep-time Digital Earth (DDE) Program, aiming to discover and integrate global geological data. At present, DDE DataStore has obtained more than 1 million websites based on 15,000 keywords and found more than 10,000 geological data.[\[website\]](https://datastore.deep-time.org/#/)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/blob/master/files/datastore-poster.pdf)
+**DDE DataExpo -- Deep-time Digital Earth (DDE) Program** The [Deep-time Digital Earth (DDE) Program](https://www.ddeworld.org/) is the first 'big science program' initiated by the International Union of Geological Sciences (IUGS) that will provide new opportunities and directions for the development of Earth Sciences. DDE DataStore is an important component of Deep-time Digital Earth (DDE) Program, aiming to discover and integrate global geological data. At present, DDE DataExpo has obtained more than 1 million websites based on 15,000 keywords and found more than 200,000 geological data.[\[website\]](https://dataexpo.deep-time.org/#/)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/blob/master/files/datastore-poster.pdf)
 
 ![dde datastore](images/dde_datastore.png)
 
