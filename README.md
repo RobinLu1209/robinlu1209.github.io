@@ -46,9 +46,8 @@ ACM International Conference on Information and Knowledge Management, 2020. (CCF
 
 ## Professional Activities
 ### Journal Reviewer
+- IEEE Transactions on Network Science and Engineering 
 - China Communications (《中国通信》英文版)
-- Financial Innovation
-- Physica A: Statistical Mechanics and its Applications
 
 ## Teaching Assistant
 - EE234 Communication Theory (2020,2021,2022)
