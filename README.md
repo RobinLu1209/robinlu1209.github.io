@@ -11,7 +11,7 @@ I'm currently a third-year PhD student in [IIOT Research Center](http://iiot.sjt
 **Bin Lu**, Xiaoying Gan, Lina Yang, Weinan Zhang, Luoyi Fu, Xinbing Wang\
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A, Oral, Research Track)
 
-**[\[KDD 2022\]](https://dl.acm.org/doi/10.1145/3534678.3539281) Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer** [\[arxiv\]](https://arxiv.org/abs/2205.13947)[\[code\]](https://github.com/RobinLu1209/ST-GFSL)[\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539281)[\[slide\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CrossCityTransfer-PPT.pdf)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CrossCityTransfer-poster.pdf) \
+**[\[KDD 2022\]](https://dl.acm.org/doi/10.1145/3534678.3539281) Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer** [\[arxiv\]](https://arxiv.org/abs/2205.13947)[\[code\]](https://github.com/RobinLu1209/ST-GFSL)[\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539281)[\[slide\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CrossCityTransfer-PPT.pdf)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CrossCityTransfer-poster.pdf)[\[media\]](https://mp.weixin.qq.com/s/80SZUkneAVrcAhs19tx7UA) \
 **Bin Lu**, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang\
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A, Oral, Research Track)
  
