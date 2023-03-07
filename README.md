@@ -7,7 +7,7 @@ I'm currently a third-year PhD student in [IIOT Research Center](http://iiot.sjt
 
 ## Publications
 
-**[\[WWW 2023\]]() DataExpo: A One-stop Dataset Service for Open Science Research**\
+**[\[WWW 2023\]]() DataExpo: A One-stop Dataset Service for Open Science Research** [\[demo\]](https://dataexpo.acemap.info/)\
 **Bin Lu**, Lynwen Wu, Lina Yang, Chenxing Sun, Wei Liu, Xiaoying Gan, Shiyu Liang, Xinbing Wang, Chenghu Zhou\
 The Web Conference, 2023. (CCF-A, Demo Track)
 
