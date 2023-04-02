@@ -1,9 +1,11 @@
 # Bin Lu's homepage
 
 ## Biography
-I'm currently a third-year PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Professor [Xiaoying Gan](https://iiot.sjtu.edu.cn/#/xygan) and Professor [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/). I'm also a member of [Wen-Tsun Wu AI honorary doctoral class](https://ai.sjtu.edu.cn/cultivate/postgraduate/managements). I received bachelor from Shanghai Jiao Tong University with honors in July 2020 and was recommended for the master degree from Sepetember 2020. Additionally, I transfer to be a PhD student (硕博连读) in March, 2022. My research fields now are graph neural network, spatial-temporal data mining, knowledge transfer.
+I'm currently a third-year PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Professor [Xiaoying Gan](https://iiot.sjtu.edu.cn/#/xygan) and Professor [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/). I'm also a member of [Wen-Tsun Wu AI honorary doctoral class](https://ai.sjtu.edu.cn/cultivate/postgraduate/managements). I received bachelor from Shanghai Jiao Tong University with honors in July 2020 and was recommended for the master degree from Sepetember 2020. Additionally, I transfer to be a PhD student (硕博连读) in March, 2022.  
 
-欢迎对图神经网络、城市计算、知识迁移等方向感兴趣的交大PRP/大创/暑期实习/毕业设计同学与我取得联系。希望同学熟悉Python等编程语言，对深度学习基本算法与代码框架有所了解更佳，勤奋认真，学有余力，对学术研究有热情！
+My current *research interests* focus on revealing heterogeneous structure of ubiquitous entities and discovering underlying knowledge with machine learning techniques.
+- **Graph Mining**: Representation, Knowledge Transfer, Out-of-Distribution Generalization on Graphs
+- **AI for Science**: Urban Computing, Open Scientific Data, GeoAI
 
 ## Publications
 
