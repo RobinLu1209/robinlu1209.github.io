@@ -4,7 +4,7 @@
 I'm currently a third-year PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Professor [Xiaoying Gan](https://iiot.sjtu.edu.cn/#/xygan) and Professor [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/). I'm also a member of [Wen-Tsun Wu AI honorary doctoral class](https://ai.sjtu.edu.cn/cultivate/postgraduate/managements). I received bachelor from Shanghai Jiao Tong University with honors in July 2020 and was recommended for the master degree from Sepetember 2020. Additionally, I transfer to be a PhD student (硕博连读) in March, 2022.  
 
 My current *research interests* focus on revealing heterogeneous structure of ubiquitous entities and discovering underlying knowledge with machine learning techniques.
-- **Graph Mining**: Representation, Knowledge Transfer, Out-of-Distribution Generalization on Graphs
+- **Graph Mining**: Representation, Transfer and Generalization on Graphs
 - **AI for Science**: Urban Computing, Open Scientific Data, GeoAI
 
 ## Publications
