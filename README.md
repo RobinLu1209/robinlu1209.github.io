@@ -7,6 +7,11 @@ My current *research interests* focus on revealing heterogeneous structure of ub
 - **Graph Mining**: Representation, Transfer and Generalization on Graphs
 - **AI for Science**: Urban Computing, Open Scientific Data, GeoAI
 
+## Preprints
+**[\[arxiv 2023\]](https://arxiv.org/abs/2308.08344) Graph Out-of-Distribution Generalization with Controllable Data Augmentation**\
+**Bin Lu**, Xiaoying Gan, Ze Zhao, Shiyu Liang, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
+Under Review.
+
 ## Publications
 
 **[\[WWW 2023\]](https://doi.org/10.1145/3543873.3587305) DataExpo: A One-stop Dataset Service for Open Science Research** [\[demo\]](https://dataexpo.acemap.info/)[\[paper\]](https://doi.org/10.1145/3543873.3587305)\
