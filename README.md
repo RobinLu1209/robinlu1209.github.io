@@ -28,11 +28,15 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A, Oral
  
 **[\[ACM TIST 2022\]](https://dl.acm.org/doi/10.1145/3488902) Make More Connections: Urban Traffic Flow Forecasting with Spatiotemporal Adaptive Gated Graph Convolution Network** [\[paper\]](https://dl.acm.org/doi/10.1145/3488902)\
 **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Xinbing Wang, Haisong Zhang\
-ACM Transactions on Intelligent Systems and Technology, 2022. (SCI，交大A类期刊，IF=4.654)
+ACM Transactions on Intelligent Systems and Technology, 2022. (SCI，SJTU-A，IF=4.654)
 
 **[\[CIKM 2020\]](https://dl.acm.org/doi/10.1145/3340531.3411894) Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting** [\[paper\]](https://dl.acm.org/doi/10.1145/3340531.3411894)[\[code\]](https://github.com/RobinLu1209/STAG-GCN)[\[slide\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CIKM_fp0393_PPT.pdf) \
 **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang\
 ACM International Conference on Information and Knowledge Management, 2020. (CCF-B, Oral, included in open-source project [LibCity](https://github.com/LibCity/Bigscity-LibCity))
+
+**[\[ICDM 2023\]]() Graph Open-Set Recognition via Entropy Message Passing**\
+Lina Yang, **Bin Lu**, Xiaoying Gan\
+IEEE International Conference on Data Mining, 2023. (CCF-B)
 
 
 ## Project
