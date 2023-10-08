@@ -60,6 +60,9 @@ IEEE International Conference on Data Mining, 2023. (CCF-B)
 - First Prize, National University Internt of Things(IoT) Design Competition, supervised by Senior-Engineer Jimin Xu and Associate Professor [Haiming Jin](http://jhc.sjtu.edu.cn/~haimingjin/). 2019
 
 ## Professional Activities
+### Conference Reviewer
+- NeurIPS (Temporal Graph Learning Workshop @NeurIPS 2023)
+
 ### Journal Reviewer
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Network Science and Engineering 
