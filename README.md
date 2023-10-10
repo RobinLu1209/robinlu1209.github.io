@@ -54,11 +54,6 @@ IEEE International Conference on Data Mining, 2023. (CCF-B)
 - ACM SIGIR Student Travel Grant for CIKM, ACM SIGIR. 2020
 - Excellent Intern, Intel Asia-Pacific Research & Development Ltd., 2019
 
-## Competitions
-- First Prize, National University Internt of Things (IoT) Design Competition, supervised by Professor Xiaoying Gan. 2021 [\[news\]](https://news.sjtu.edu.cn/jdyw/20210927/158841.html)
-- Meritorious Winner, Mathematical Contest in Modeling, COMAP, supervised by Professor [Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/). 2019
-- First Prize, National University Internt of Things(IoT) Design Competition, supervised by Senior-Engineer Jimin Xu and Associate Professor [Haiming Jin](http://jhc.sjtu.edu.cn/~haimingjin/). 2019
-
 ## Professional Activities
 ### Conference Reviewer
 - NeurIPS (Temporal Graph Learning Workshop @NeurIPS 2023)
@@ -68,11 +63,23 @@ IEEE International Conference on Data Mining, 2023. (CCF-B)
 - IEEE Transactions on Network Science and Engineering 
 - China Communications (《中国通信》英文版)
 
+## Presentation
+- 2020 ACM International Conference on Information and Knowledge Management (CIKM), Virtual
+- 2022 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Virtual
+- 2023 First Symposium of Data-Driven Earth Science Development, Geological Society of China, Zhuhai, Guangdong, China
+- 2023 The 7th Conference on Earth System Science, Shanghai, China [\[link\]](https://www.cess.org.cn/Data/Programme/86)
+- 2023 Future Annual Meetings, Geological Society of America, Pittsburgh, Pennsylvania, USA [\[link\]](https://www.geosociety.org/iCore/Events/Function_Display.aspx?EventKey=23CONNECT&FunctionKey=23CONNECT%2f5200&RegistrantId=9153806&IsTemplate=False&WebsiteKey=63041b88-d318-49f6-b60a-22db8c32eec3)
+
 ## Teaching Assistant
 - EE234 Communication Theory (2020,2021,2022)
 - ES342 RF Microelectronics (2021,2022)
-- ICE2604 Introduction to Engineering for Electronic Information (2022) 
+- ICE2604 Introduction to Engineering for Electronic Information (2022,2023) 
 - Teaching Assistant with [excellent awards](http://ctld.sjtu.edu.cn/news/811).
+
+## Competitions
+- First Prize, National University Internt of Things (IoT) Design Competition, supervised by Professor Xiaoying Gan. 2021 [\[news\]](https://news.sjtu.edu.cn/jdyw/20210927/158841.html)
+- Meritorious Winner, Mathematical Contest in Modeling, COMAP, supervised by Professor [Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/). 2019
+- First Prize, National University Internt of Things(IoT) Design Competition, supervised by Senior-Engineer Jimin Xu and Associate Professor [Haiming Jin](http://jhc.sjtu.edu.cn/~haimingjin/). 2019
 
 ## Contact
 Room 441, SEIEE Building No.1, Dongchuan Road 800, Shanghai, China
