@@ -56,7 +56,7 @@ IEEE International Conference on Data Mining, 2023. (CCF-B)
 
 ## Professional Activities
 ### Conference Reviewer
-- NeurIPS (Temporal Graph Learning Workshop @NeurIPS 2023)
+- NeurIPS (Temporal Graph Learning Workshop, Self-Supervised Learning - Theory and Practice Workshop)
 
 ### Journal Reviewer
 - IEEE Transactions on Knowledge and Data Engineering
