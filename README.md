@@ -15,7 +15,7 @@ Under Review.
 ## Publications
 
 **[\[NeurIPS Workshop 2023\]](https://sslneurips23.github.io/index.html) Evolving Graph Generalization Estimation via Self-Supervised Learning**\
-**Bin Lu**, Tingyan Ma, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Shiyu Liang\
+**Bin Lu**, Tingyan Ma, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Shiyu Liang\
 NeurIPS 2023 Workshop: Self-Supervised Learning - Theory and Practice.
 
 **[\[WWW 2023\]](https://doi.org/10.1145/3543873.3587305) DataExpo: A One-stop Dataset Service for Open Science Research** [\[demo\]](https://dataexpo.acemap.info/)[\[paper\]](https://doi.org/10.1145/3543873.3587305)\
