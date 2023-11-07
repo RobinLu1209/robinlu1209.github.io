@@ -7,6 +7,8 @@ My current *research interests* focus on revealing heterogeneous structure of ub
 - **Graph Mining**: Representation, Transfer and Generalization on Graphs
 - **AI for Science**: Urban Computing, Open Scientific Data, GeoAI
 
+![research_interest](images/research_interest.jpg)
+
 ## Preprints
 **[\[arxiv 2023\]](https://arxiv.org/abs/2308.08344) Graph Out-of-Distribution Generalization with Controllable Data Augmentation**\
 **Bin Lu**, Xiaoying Gan, Ze Zhao, Shiyu Liang, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
