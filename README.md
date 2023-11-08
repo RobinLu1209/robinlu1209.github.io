@@ -16,7 +16,7 @@ Under Review.
 
 ## Publications
 
-**[\[NeurIPS Workshop 2023\]](https://sslneurips23.github.io/index.html) Evolving Graph Generalization Estimation via Self-Supervised Learning**\
+**[\[NeurIPS Workshop 2023\]](https://nips.cc/virtual/2023/workshop/66514) Evolving Graph Generalization Estimation via Self-Supervised Learning** [\[paper\]](https://openreview.net/pdf?id=x7DvfZaq1l)\
 **Bin Lu**, Tingyan Ma, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Shiyu Liang\
 NeurIPS 2023 Workshop: Self-Supervised Learning - Theory and Practice.
 
