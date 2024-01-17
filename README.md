@@ -16,6 +16,10 @@ Under Review.
 
 ## Publications
 
+**[\[ICLR 2024\]](https://openreview.net/forum?id=HFtrXBfNru) Temporal Generalization Estimation in Evolving Graphs** [\[paper\]](https://openreview.net/forum?id=HFtrXBfNru)\
+**Bin Lu**, Tingyan Ma, Xiaoying Gan, Xinbing Wang, Yunqiang Zhu, Chenghu Zhou, Shiyu Liang\
+The Twelfth International Conference on Learning Representations, 2024. (Tsinghua-A)
+
 **[\[NeurIPS Workshop 2023\]](https://nips.cc/virtual/2023/workshop/66514) Evolving Graph Generalization Estimation via Self-Supervised Learning** [\[paper\]](https://openreview.net/pdf?id=x7DvfZaq1l)\
 **Bin Lu**, Tingyan Ma, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Shiyu Liang\
 NeurIPS 2023 Workshop: Self-Supervised Learning - Theory and Practice.
