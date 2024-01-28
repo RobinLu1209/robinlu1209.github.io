@@ -26,15 +26,15 @@ NeurIPS 2023 Workshop: Self-Supervised Learning - Theory and Practice.
 
 **[\[WWW 2023\]](https://doi.org/10.1145/3543873.3587305) DataExpo: A One-stop Dataset Service for Open Science Research** [\[demo\]](https://dataexpo.acemap.info/)[\[paper\]](https://doi.org/10.1145/3543873.3587305)\
 **Bin Lu**, Lynwen Wu, Lina Yang, Chenxing Sun, Wei Liu, Xiaoying Gan, Shiyu Liang, Xinbing Wang, Chenghu Zhou\
-The Web Conference, 2023. (CCF-A, Demo Track)
+The Web Conference, 2023. (CCF-A)
 
 **[\[KDD 2022\]](https://dl.acm.org/doi/10.1145/3534678.3539280) Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation** [\[arxiv\]](https://arxiv.org/abs/2205.13954)[\[code\]](https://github.com/RobinLu1209/Geometer)[\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539280)[\[slide\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/Geometer-PPT.pdf)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/Geometer-poster.pdf)[\[media\]](https://mp.weixin.qq.com/s/Rbuqlpw5NpBn_5r-GPAJxQ) \
 **Bin Lu**, Xiaoying Gan, Lina Yang, Weinan Zhang, Luoyi Fu, Xinbing Wang\
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A, Oral, Research Track)
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A, Oral)
 
 **[\[KDD 2022\]](https://dl.acm.org/doi/10.1145/3534678.3539281) Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer** [\[arxiv\]](https://arxiv.org/abs/2205.13947)[\[code\]](https://github.com/RobinLu1209/ST-GFSL)[\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539281)[\[slide\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CrossCityTransfer-PPT.pdf)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/raw/master/files/CrossCityTransfer-poster.pdf)[\[media\]](https://mp.weixin.qq.com/s/80SZUkneAVrcAhs19tx7UA) \
 **Bin Lu**, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang\
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A, Oral, Research Track)
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. (CCF-A, Oral)
  
 **[\[ACM TIST 2022\]](https://dl.acm.org/doi/10.1145/3488902) Make More Connections: Urban Traffic Flow Forecasting with Spatiotemporal Adaptive Gated Graph Convolution Network** [\[paper\]](https://dl.acm.org/doi/10.1145/3488902)\
 **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Xinbing Wang, Haisong Zhang\
