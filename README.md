@@ -44,7 +44,7 @@ ACM Transactions on Intelligent Systems and Technology, 2022. (SCI，SJTU-A，IF
 **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang\
 ACM International Conference on Information and Knowledge Management, 2020. (CCF-B, Oral, included in open-source project [LibCity](https://github.com/LibCity/Bigscity-LibCity))
 
-**[\[ICDM 2023\]]() Graph Open-Set Recognition via Entropy Message Passing**\
+**[\[ICDM 2023\]](https://ieeexplore.ieee.org/document/10415791) Graph Open-Set Recognition via Entropy Message Passing**\
 Lina Yang, **Bin Lu**, Xiaoying Gan\
 IEEE International Conference on Data Mining, 2023. (CCF-B)
 
