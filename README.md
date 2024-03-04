@@ -16,13 +16,13 @@ Under Review.
 
 ## Publications
 
-**[\[ICLR 2024\]](https://openreview.net/forum?id=HFtrXBfNru) Temporal Generalization Estimation in Evolving Graphs** [\[paper\]](https://openreview.net/forum?id=HFtrXBfNru)\
-**Bin Lu**, Tingyan Ma, Xiaoying Gan, Xinbing Wang, Yunqiang Zhu, Chenghu Zhou, Shiyu Liang\
-The Twelfth International Conference on Learning Representations, 2024. (Tsinghua-A)
+**[\[ICLR Workshop 2024\]](https://www.climatechange.ai/events/iclr2024) Reconstructing the Breathless Ocean with Spatio-Temporal Graph Learning**\
+**Bin Lu**, Ze Zhao, Luyu Han, Xiaoying Gan, Yuntao Zhou, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
+ICLR 2024 Workshop: Tackling Climate Change with Machine Learning.
 
-**[\[NeurIPS Workshop 2023\]](https://nips.cc/virtual/2023/workshop/66514) Evolving Graph Generalization Estimation via Self-Supervised Learning** [\[paper\]](https://openreview.net/pdf?id=x7DvfZaq1l)\
-**Bin Lu**, Tingyan Ma, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Shiyu Liang\
-NeurIPS 2023 Workshop: Self-Supervised Learning - Theory and Practice.
+**[\[ICLR 2024\]](https://openreview.net/forum?id=HFtrXBfNru) Temporal Generalization Estimation in Evolving Graphs** [\[paper\]](https://openreview.net/forum?id=HFtrXBfNru)[\[NeurIPS Workshop 2023\]](https://nips.cc/virtual/2023/workshop/66514)\
+**Bin Lu**, Tingyan Ma, Xiaoying Gan, Xinbing Wang, Yunqiang Zhu, Chenghu Zhou, Shiyu Liang\
+The Twelfth International Conference on Learning Representations, 2024. (Tsinghua-A, the short version is presented in NeurIPS 2023 Workshop on Self-Supervised Learning - Theory and Practice.) 
 
 **[\[WWW 2023\]](https://doi.org/10.1145/3543873.3587305) DataExpo: A One-stop Dataset Service for Open Science Research** [\[demo\]](https://dataexpo.acemap.info/)[\[paper\]](https://doi.org/10.1145/3543873.3587305)\
 **Bin Lu**, Lynwen Wu, Lina Yang, Chenxing Sun, Wei Liu, Xiaoying Gan, Shiyu Liang, Xinbing Wang, Chenghu Zhou\
