@@ -48,6 +48,9 @@ ACM International Conference on Information and Knowledge Management, 2020. (CCF
 Lina Yang, **Bin Lu**, Xiaoying Gan\
 IEEE International Conference on Data Mining, 2023. (CCF-B)
 
+**[\[SIGIR 2024\]]() EditKG: Editing Knowledge Graph for Recommendation**\
+Gu Tang, Xiaoying Gan, Jinghe Wang, **Bin Lu**, Lyuwen Wu, Luoyi Fu, Chenghu Zhou\
+International ACM SIGIR Conference on Research and Development in Information Retrieval, 2024. (CCF-A)
 
 ## Project
 
