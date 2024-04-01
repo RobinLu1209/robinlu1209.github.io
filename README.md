@@ -16,8 +16,8 @@ Under Review.
 
 ## Publications
 
-**[\[ICLR Workshop 2024\]](https://www.climatechange.ai/events/iclr2024) Reconstructing the Breathless Ocean with Spatio-Temporal Graph Learning**\
-**Bin Lu**, Ze Zhao, Luyu Han, Xiaoying Gan, Yuntao Zhou, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
+**[\[ICLR Workshop 2024\]](https://www.climatechange.ai/events/iclr2024) Reconstructing the Breathless Ocean with Spatio-Temporal Graph Learning**[\[EGU\]](https://meetingorganizer.copernicus.org/EGU24/EGU24-5926.html)\
+**Bin Lu**, Ze Zhao, Luyu Han, Xiaoying Gan, Yuntao Zhou, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Jing Zhang\
 ICLR 2024 Workshop: Tackling Climate Change with Machine Learning.
 
 **[\[ICLR 2024\]](https://openreview.net/forum?id=HFtrXBfNru) Temporal Generalization Estimation in Evolving Graphs** [\[paper\]](https://openreview.net/forum?id=HFtrXBfNru)[\[NeurIPS Workshop 2023\]](https://nips.cc/virtual/2023/workshop/66514)\
