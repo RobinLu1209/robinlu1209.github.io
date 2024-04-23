@@ -9,12 +9,11 @@ My current *research interests* focus on revealing heterogeneous structure of ub
 
 ![research_interest](images/research_interest.png)
 
-## Preprints
-**[\[arxiv 2023\]](https://arxiv.org/abs/2308.08344) Graph Out-of-Distribution Generalization with Controllable Data Augmentation**\
-**Bin Lu**, Xiaoying Gan, Ze Zhao, Shiyu Liang, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
-Under Review.
-
 ## Publications
+
+**[\[TKDE 2024\]](https://arxiv.org/abs/2308.08344) Graph Out-of-Distribution Generalization with Controllable Data Augmentation**\
+**Bin Lu**, Ze Zhao, Xiaoying Gan, Shiyu Liang, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
+IEEE Transactions on Knowledge and Data Engineering, 2024. (CCF-A)
 
 **[\[ICLR Workshop 2024\]](https://www.climatechange.ai/events/iclr2024) Reconstructing the Breathless Ocean with Spatio-Temporal Graph Learning**[\[EGU\]](https://meetingorganizer.copernicus.org/EGU24/EGU24-5926.html)\
 **Bin Lu**, Ze Zhao, Luyu Han, Xiaoying Gan, Yuntao Zhou, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Jing Zhang\
