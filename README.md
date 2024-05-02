@@ -10,14 +10,13 @@ My current *research interests* focus on revealing heterogeneous structure of ub
 ![research_interest](images/research_interest.png)
 
 ## Publications
+**[\[ICML 2024\]](https://www.climatechange.ai/events/iclr2024)  OxyGenerator: Reconstructing Global Ocean Deoxygenation Over a Century with Deep Learning**[\[ICLR Workshop 2024\]](https://www.climatechange.ai/events/iclr2024)[\[EGU\]](https://meetingorganizer.copernicus.org/EGU24/EGU24-5926.html)\
+**Bin Lu**, Ze Zhao, Luyu Han, Xiaoying Gan, Yuntao Zhou, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Jing Zhang\
+International Conference on Machine Learning, 2024. (CCF-A)
 
 **[\[TKDE 2024\]](https://arxiv.org/abs/2308.08344) Graph Out-of-Distribution Generalization with Controllable Data Augmentation**\
 **Bin Lu**, Ze Zhao, Xiaoying Gan, Shiyu Liang, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
 IEEE Transactions on Knowledge and Data Engineering, 2024. (CCF-A)
-
-**[\[ICLR Workshop 2024\]](https://www.climatechange.ai/events/iclr2024) Reconstructing the Breathless Ocean with Spatio-Temporal Graph Learning**[\[EGU\]](https://meetingorganizer.copernicus.org/EGU24/EGU24-5926.html)\
-**Bin Lu**, Ze Zhao, Luyu Han, Xiaoying Gan, Yuntao Zhou, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Jing Zhang\
-ICLR 2024 Workshop: Tackling Climate Change with Machine Learning.
 
 **[\[ICLR 2024\]](https://openreview.net/forum?id=HFtrXBfNru) Temporal Generalization Estimation in Evolving Graphs** [\[paper\]](https://openreview.net/forum?id=HFtrXBfNru)[\[NeurIPS Workshop 2023\]](https://nips.cc/virtual/2023/workshop/66514)\
 **Bin Lu**, Tingyan Ma, Xiaoying Gan, Xinbing Wang, Yunqiang Zhu, Chenghu Zhou, Shiyu Liang\
