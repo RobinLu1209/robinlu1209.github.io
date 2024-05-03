@@ -14,7 +14,7 @@ My current *research interests* focus on revealing heterogeneous structure of ub
 **Bin Lu**, Ze Zhao, Luyu Han, Xiaoying Gan, Yuntao Zhou, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Jing Zhang\
 International Conference on Machine Learning, 2024. (CCF-A)
 
-**[\[TKDE 2024\]](https://arxiv.org/abs/2308.08344) Graph Out-of-Distribution Generalization with Controllable Data Augmentation**\
+**[\[TKDE 2024\]](https://ieeexplore.ieee.org/document/10517351) Graph Out-of-Distribution Generalization with Controllable Data Augmentation**\
 **Bin Lu**, Ze Zhao, Xiaoying Gan, Shiyu Liang, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
 IEEE Transactions on Knowledge and Data Engineering, 2024. (CCF-A)
 
