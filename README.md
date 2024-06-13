@@ -10,7 +10,7 @@ My current *research interests* focus on revealing heterogeneous structure of ub
 ![research_interest](images/research_interest.png)
 
 ## Publications
-**[\[ICML 2024\]](https://www.climatechange.ai/events/iclr2024)  OxyGenerator: Reconstructing Global Ocean Deoxygenation Over a Century with Deep Learning**[\[ICLR Workshop 2024\]](https://www.climatechange.ai/events/iclr2024)[\[EGU\]](https://meetingorganizer.copernicus.org/EGU24/EGU24-5926.html)\
+**[\[ICML 2024\]](https://arxiv.org/pdf/2405.07233)  OxyGenerator: Reconstructing Global Ocean Deoxygenation Over a Century with Deep Learning** [\[ICLR Workshop 2024\]](https://www.climatechange.ai/events/iclr2024)[\[EGU\]](https://meetingorganizer.copernicus.org/EGU24/EGU24-5926.html)\
 **Bin Lu**, Ze Zhao, Luyu Han, Xiaoying Gan, Yuntao Zhou, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Jing Zhang\
 International Conference on Machine Learning, 2024. (CCF-A)
 
