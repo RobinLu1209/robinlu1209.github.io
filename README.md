@@ -56,6 +56,7 @@ International ACM SIGIR Conference on Research and Development in Information Re
 
 ![dde datastore](images/dde_datastore.png)
 
+
 ## Awards
 - **Wen-Tsun Wu AI Honorary Doctoral Scholarship**, AI Institute of SJTU (吴文俊人工智能荣誉博士资助). 2022
 - **National Scholarship**, The Ministry of Education of China (国家奖学金). 2022
@@ -72,7 +73,8 @@ International ACM SIGIR Conference on Research and Development in Information Re
 
 ### Journal Reviewer
 - IEEE Transactions on Knowledge and Data Engineering
-- IEEE Transactions on Network Science and Engineering 
+- IEEE Transactions on Network Science and Engineering
+- Information Fusion
 - China Communications (《中国通信》英文版)
 
 ## Presentation
