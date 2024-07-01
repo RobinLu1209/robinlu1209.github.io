@@ -67,7 +67,8 @@ International ACM SIGIR Conference on Research and Development in Information Re
 
 ## Professional Activities
 ### Conference Reviewer
-- NeurIPS (Temporal Graph Learning Workshop, Self-Supervised Learning - Theory and Practice Workshop)
+- NeurIPS (2023)
+- CIKM (2024)
 
 ### Journal Reviewer
 - IEEE Transactions on Knowledge and Data Engineering
