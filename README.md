@@ -7,7 +7,7 @@ My current *research interests* focus on revealing heterogeneous structure of ub
 - **Graph Mining**: Representation, Transfer and Generalization on Graphs
 - **AI for Science**: Urban Computing, Open Scientific Data, GeoAI
 
-![research_interest](images/research_interest.png)
+![research_interest](research_interest.png)
 
 ## Publications
 **[\[ICML 2024\]](https://arxiv.org/pdf/2405.07233)  OxyGenerator: Reconstructing Global Ocean Deoxygenation Over a Century with Deep Learning** [\[ICLR Workshop 2024\]](https://www.climatechange.ai/events/iclr2024)[\[EGU\]](https://meetingorganizer.copernicus.org/EGU24/EGU24-5926.html)\
@@ -65,6 +65,9 @@ International ACM SIGIR Conference on Research and Development in Information Re
 - **Shanghai Honor Graduates** (上海市优秀毕业生), SJTU. 2020
 - ACM SIGIR Student Travel Grant for CIKM, ACM SIGIR. 2020
 - Excellent Intern, Intel Asia-Pacific Research & Development Ltd., 2019
+
+## Grants
+- Basic Research Project for PhD Students, National Natural Science Foundation of China（国家自然科学基金博士生项目，首届）, 2024.05-2025.12, Principal Investigator
 
 ## Professional Activities
 ### Conference Reviewer
