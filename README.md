@@ -5,7 +5,7 @@ I'm currently a fourth-year PhD student in [IIOT Research Center](http://iiot.sj
 
 My current *research interests* focus on revealing heterogeneous structure of ubiquitous entities and discovering underlying knowledge with machine learning techniques.
 - **Graph Mining**: Representation, Transfer and Generalization on Graphs
-- **AI for Science**: Urban Computing, Open Scientific Data, GeoAI
+- **AI for Science**: GeoAI, Urban Computing, Open Scientific Data
 
 ![research_interest](research_interest.png)
 
