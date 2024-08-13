@@ -70,6 +70,10 @@ International ACM SIGIR Conference on Research and Development in Information Re
 - Basic Research Project for PhD Students, National Natural Science Foundation of China（**国家自然科学基金博士生项目**，**首届**）, 2024.05-2025.12, Principal Investigator
 
 ## Professional Activities
+
+### Program Committee Member
+- Workshop on "Tackling Climate Change with Machine Learning", NeurIPS (2024)
+
 ### Conference Reviewer
 - NeurIPS (2023)
 - CIKM (2024)
