@@ -75,8 +75,9 @@ International ACM SIGIR Conference on Research and Development in Information Re
 - Workshop on "Tackling Climate Change with Machine Learning", NeurIPS (2024)
 
 ### Conference Reviewer
-- NeurIPS (2023)
-- CIKM (2024)
+- NeurIPS (2023, 2024)
+- KDD (2025)
+- ICLR (2025)
 
 ### Journal Reviewer
 - IEEE Transactions on Knowledge and Data Engineering
