@@ -58,6 +58,7 @@ International ACM SIGIR Conference on Research and Development in Information Re
 
 
 ## Awards
+- **National Scholarship**, The Ministry of Education of China (国家奖学金). 2024
 - **Wen-Tsun Wu AI Honorary Doctoral Scholarship**, AI Institute of SJTU (吴文俊人工智能荣誉博士资助). 2022
 - **National Scholarship**, The Ministry of Education of China (国家奖学金). 2022
 - **National Scholarship**, The Ministry of Education of China (国家奖学金). 2021
