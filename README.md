@@ -58,9 +58,7 @@ International ACM SIGIR Conference on Research and Development in Information Re
 
 **Jingwei - Hybrid Graph Learning Reconstructs Global Ocean Changes.** In this interdisciplinary study, we present a significant achievement in the modeling of ocean deoxygenation, offering accurate, long-term, and global spatiotemporal reconstructions of dissolved oxygen variations through a novel hybrid deep learning framework. We name it [Jingwei](https://en.wikipedia.org/wiki/Jingwei), a mythical bird in Chinese mythology that insist on filling the sea with pebbles and twigs, just as we try to fill the sparse ocean oxygen observations. We believe the approach proposed in this study represents a new AI-driven paradigm in ocean system modeling, with the potential to advance the understanding of deoxygenation mechanisms and provide a pioneering framework for climate change analysis with advanced AI techniques. Alongside, we have released an [open-source platform](https://jingwei.acemap.info/), providing data visualization, resource sharing and ongoing updates to more variables. [\[code\]](https://github.com/RobinLu1209/Jingwei) [\[website\]](https://jingwei.acemap.info/)
 
-<div align="center">
-  <img src="https://github.com/RobinLu1209/Jingwei/blob/main/readme_file/fig-main-fig1_Page1.png" alt="Logo" width="100%" />
-</div>
+![jingwei framework](images/jingwei_framework.png)
 
 ## Awards
 - **National Scholarship**, The Ministry of Education of China (国家奖学金). 2024
