@@ -52,10 +52,15 @@ International ACM SIGIR Conference on Research and Development in Information Re
 
 ## Project
 
-**DDE DataExpo -- Deep-time Digital Earth (DDE) Program** The [Deep-time Digital Earth (DDE) Program](https://www.ddeworld.org/) is the first 'big science program' initiated by the International Union of Geological Sciences (IUGS) that will provide new opportunities and directions for the development of Earth Sciences. DDE DataStore is an important component of Deep-time Digital Earth (DDE) Program, aiming to discover and integrate global geological data. At present, DDE DataExpo has obtained more than 1 million websites based on 15,000 keywords and found more than 200,000 geological data.[\[website\]](https://dataexpo.deep-time.org/#/)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/blob/master/files/datastore-poster.pdf)[\[media\]](https://mp.weixin.qq.com/s/fH28qwZ4HMnOCqsusEXzQg)[\[news\]](https://news.sjtu.edu.cn/jdzh/20221117/176543.html)
+**DDE DataExpo -- Deep-time Digital Earth (DDE) Program.** The [Deep-time Digital Earth (DDE) Program](https://www.ddeworld.org/) is the first 'big science program' initiated by the International Union of Geological Sciences (IUGS) that will provide new opportunities and directions for the development of Earth Sciences. DDE DataStore is an important component of Deep-time Digital Earth (DDE) Program, aiming to discover and integrate global geological data. At present, DDE DataExpo has obtained more than 1 million websites based on 15,000 keywords and found more than 200,000 geological data.[\[website\]](https://dataexpo.deep-time.org/#/)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/blob/master/files/datastore-poster.pdf)[\[media\]](https://mp.weixin.qq.com/s/fH28qwZ4HMnOCqsusEXzQg)[\[news\]](https://news.sjtu.edu.cn/jdzh/20221117/176543.html)
 
 ![dde datastore](images/dde_datastore.png)
 
+**Jingwei - Hybrid Graph Learning Reconstructs Global Ocean Changes.** In this interdisciplinary study, we present a significant achievement in the modeling of ocean deoxygenation, offering accurate, long-term, and global spatiotemporal reconstructions of dissolved oxygen variations through a novel hybrid deep learning framework. We name it [Jingwei](https://en.wikipedia.org/wiki/Jingwei), a mythical bird in Chinese mythology that insist on filling the sea with pebbles and twigs, just as we try to fill the sparse ocean oxygen observations. We believe the approach proposed in this study represents a new AI-driven paradigm in ocean system modeling, with the potential to advance the understanding of deoxygenation mechanisms and provide a pioneering framework for climate change analysis with advanced AI techniques. Alongside, we have released an [open-source platform](https://jingwei.acemap.info/), providing data visualization, resource sharing and ongoing updates to more variables. [\[code\]](https://github.com/RobinLu1209/Jingwei) [\[website\]](https://jingwei.acemap.info/)
+
+<div align="center">
+  <img src="https://github.com/RobinLu1209/Jingwei/blob/main/readme_file/fig-main-fig1_Page1.png" alt="Logo" width="100%" />
+</div>
 
 ## Awards
 - **National Scholarship**, The Ministry of Education of China (国家奖学金). 2024
