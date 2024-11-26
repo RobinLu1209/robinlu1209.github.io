@@ -85,6 +85,7 @@ International ACM SIGIR Conference on Research and Development in Information Re
 
 ### Journal Reviewer
 - IEEE Transactions on Knowledge and Data Engineering
+- ACM Transactions on Knowledge Discovery from Data
 - IEEE Transactions on Network Science and Engineering
 - Information Fusion
 - China Communications (《中国通信》英文版)
