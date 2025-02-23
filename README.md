@@ -71,7 +71,8 @@ International ACM SIGIR Conference on Research and Development in Information Re
 - Excellent Intern, Intel Asia-Pacific Research & Development Ltd., 2019
 
 ## Grants
-- Basic Research Project for PhD Students, National Natural Science Foundation of China（**国家自然科学基金博士生项目**，**首届**）, 2024.05-2025.12, Principal Investigator
+- Basic Research Project for PhD Students, National Natural Science Foundation of China（**首届国家自然科学基金博士生项目**）, 2024.05-2025.12, Principal Investigator
+- **首届中国科协青年人才托举工程博士生专项计划**，2024（托举学会：中国电子学会）
 
 ## Professional Activities
 
