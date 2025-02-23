@@ -83,6 +83,8 @@ International ACM SIGIR Conference on Research and Development in Information Re
 - NeurIPS (2023, 2024)
 - KDD (2025)
 - ICLR (2025)
+- IJCAI (2025)
+- SIGIR (2025)
 
 ### Journal Reviewer
 - IEEE Transactions on Knowledge and Data Engineering
