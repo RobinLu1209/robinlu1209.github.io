@@ -42,6 +42,14 @@ ACM Transactions on Intelligent Systems and Technology, 2022. (SCI，SJTU-A，IF
 **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang\
 ACM International Conference on Information and Knowledge Management, 2020. (CCF-B, Oral, included in open-source project [LibCity](https://github.com/LibCity/Bigscity-LibCity))
 
+**[\[ICDE 2025\]]() Numerical Reasoning on Knowledge Graphs: From a Chain Perspective**\
+Ze Zhao, **Bin Lu**, Xiaoying Gan, Gu Tang, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
+IEEE International Conference on Data Engineering, Hong Kong, China, 2025. (CCF-A)
+
+**[\[Acta Oceanologica Sinica 2025\]]() Reconstruction of dissolved oxygen in the Tropical Pacific Ocean for past 100 years based on XGBoost**\
+Jingjing Shen, **Bin Lu**, Lei Zhou, Xiaoying Gan\
+Acta Oceanologica Sinica, 2025
+
 **[\[ICDM 2023\]](https://ieeexplore.ieee.org/document/10415791) Graph Open-Set Recognition via Entropy Message Passing**\
 Lina Yang, **Bin Lu**, Xiaoying Gan\
 IEEE International Conference on Data Mining, 2023. (CCF-B)
@@ -61,6 +69,7 @@ International ACM SIGIR Conference on Research and Development in Information Re
 ![jingwei framework](images/jingwei_framework.png)
 
 ## Awards
+- **Baidu Fellowship** (10 awardees worldwide). 2025
 - **National Scholarship**, The Ministry of Education of China (国家奖学金). 2024
 - **Wen-Tsun Wu AI Honorary Doctoral Scholarship**, AI Institute of SJTU (吴文俊人工智能荣誉博士资助). 2022
 - **National Scholarship**, The Ministry of Education of China (国家奖学金). 2022
