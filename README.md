@@ -58,6 +58,10 @@ IEEE International Conference on Data Mining, 2023. (CCF-B)
 Gu Tang, Xiaoying Gan, Jinghe Wang, **Bin Lu**, Lyuwen Wu, Luoyi Fu, Chenghu Zhou\
 International ACM SIGIR Conference on Research and Development in Information Retrieval, 2024. (CCF-A)
 
+**[\[KDD 2025\]]() R2MR: Review and Rewrite Modality for Recommendation**\
+Gu Tang, Jinghe Wang, Xiaoying Gan, **Bin Lu**, Ze Zhao, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
+ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2025. (CCF-A)
+
 ## Project
 
 **DDE DataExpo -- Deep-time Digital Earth (DDE) Program.** The [Deep-time Digital Earth (DDE) Program](https://www.ddeworld.org/) is the first 'big science program' initiated by the International Union of Geological Sciences (IUGS) that will provide new opportunities and directions for the development of Earth Sciences. DDE DataStore is an important component of Deep-time Digital Earth (DDE) Program, aiming to discover and integrate global geological data. At present, DDE DataExpo has obtained more than 1 million websites based on 15,000 keywords and found more than 200,000 geological data.[\[website\]](https://dataexpo.deep-time.org/#/)[\[poster\]](https://github.com/RobinLu1209/robinlu1209.github.io/blob/master/files/datastore-poster.pdf)[\[media\]](https://mp.weixin.qq.com/s/fH28qwZ4HMnOCqsusEXzQg)[\[news\]](https://news.sjtu.edu.cn/jdzh/20221117/176543.html)
