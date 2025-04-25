@@ -1,7 +1,7 @@
 # Bin Lu's homepage
 
 ## Biography
-I'm currently a postdoctoral researcher in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I obtained PhD degree from the Department of Electronic Engineering at Shanghai Jiao Tong University in March 2025, supervised by Professor [Xiaoying Gan](https://iiot.sjtu.edu.cn/#/xygan) and Professor [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/). I received bachelor from Shanghai Jiao Tong University with honors in July 2020.  
+I'm the PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), supervised by Professor [Xiaoying Gan](https://iiot.sjtu.edu.cn/#/xygan) and Professor [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/). I received bachelor from Shanghai Jiao Tong University with honors in July 2020.  
 
 My current *research interests* focus on revealing heterogeneous structure of ubiquitous entities and discovering underlying knowledge with machine learning techniques.
 - **Graph Mining**: Representation, Transfer and Generalization on Graphs
