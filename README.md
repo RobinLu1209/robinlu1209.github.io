@@ -1,7 +1,7 @@
 # Bin Lu's homepage
 
 ## Biography
-I'm the PhD student in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), supervised by Professor [Xiaoying Gan](https://iiot.sjtu.edu.cn/#/xygan) and Professor [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/). I received bachelor from Shanghai Jiao Tong University with honors in July 2020.  
+I'm currently a postdoctoral researcher in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I obtained PhD degree from the Department of Electronic Engineering at Shanghai Jiao Tong University in March 2025, supervised by Professor [Xiaoying Gan](https://iiot.sjtu.edu.cn/#/xygan) and Professor [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/). I received bachelor from Shanghai Jiao Tong University with honors in July 2020.
 
 My current *research interests* focus on revealing heterogeneous structure of ubiquitous entities and discovering underlying knowledge with machine learning techniques.
 - **Graph Mining**: Representation, Transfer and Generalization on Graphs
@@ -46,21 +46,21 @@ ACM International Conference on Information and Knowledge Management, 2020. (CCF
 Ze Zhao, **Bin Lu**, Xiaoying Gan, Gu Tang, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
 IEEE International Conference on Data Engineering, Hong Kong, China, 2025. (CCF-A)
 
+**[\[KDD 2025\]]() R2MR: Review and Rewrite Modality for Recommendation**\
+Gu Tang, Jinghe Wang, Xiaoying Gan, **Bin Lu**, Ze Zhao, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
+ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2025. (CCF-A)
+
 **[\[Acta Oceanologica Sinica 2025\]]() Reconstruction of dissolved oxygen in the Tropical Pacific Ocean for past 100 years based on XGBoost**\
 Jingjing Shen, **Bin Lu**, Lei Zhou, Xiaoying Gan\
 Acta Oceanologica Sinica, 2025
-
-**[\[ICDM 2023\]](https://ieeexplore.ieee.org/document/10415791) Graph Open-Set Recognition via Entropy Message Passing**\
-Lina Yang, **Bin Lu**, Xiaoying Gan\
-IEEE International Conference on Data Mining, 2023. (CCF-B)
 
 **[\[SIGIR 2024\]]() EditKG: Editing Knowledge Graph for Recommendation**\
 Gu Tang, Xiaoying Gan, Jinghe Wang, **Bin Lu**, Lyuwen Wu, Luoyi Fu, Chenghu Zhou\
 International ACM SIGIR Conference on Research and Development in Information Retrieval, 2024. (CCF-A)
 
-**[\[KDD 2025\]]() R2MR: Review and Rewrite Modality for Recommendation**\
-Gu Tang, Jinghe Wang, Xiaoying Gan, **Bin Lu**, Ze Zhao, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
-ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2025. (CCF-A)
+**[\[ICDM 2023\]](https://ieeexplore.ieee.org/document/10415791) Graph Open-Set Recognition via Entropy Message Passing**\
+Lina Yang, **Bin Lu**, Xiaoying Gan\
+IEEE International Conference on Data Mining, 2023. (CCF-B)
 
 ## Project
 
@@ -93,7 +93,7 @@ ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2025
 - Workshop on "Tackling Climate Change with Machine Learning", NeurIPS (2024)
 
 ### Conference Reviewer
-- NeurIPS (2023, 2024)
+- NeurIPS (2023, 2024, 2025)
 - KDD (2025)
 - ICLR (2025)
 - IJCAI (2025)
@@ -101,7 +101,9 @@ ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2025
 
 ### Journal Reviewer
 - IEEE Transactions on Knowledge and Data Engineering
+- IEEE Transactions on Intelligent Transportation Systems
 - ACM Transactions on Knowledge Discovery from Data
+- IEEE Transactions on Big Data
 - IEEE Transactions on Network Science and Engineering
 - Information Fusion
 - China Communications (《中国通信》英文版)
