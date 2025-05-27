@@ -90,7 +90,8 @@ IEEE International Conference on Data Mining, 2023. (CCF-B)
 ## Professional Activities
 
 ### Program Committee Member
-- Workshop on "Tackling Climate Change with Machine Learning", NeurIPS (2024)
+- "Tackling Climate Change with Machine Learning" Workshop (NeurIPS 2024)
+- "Temporal Graph Learning" Workshop ([NeurIPS 2023](https://sites.google.com/view/tglworkshop-2023/home), KDD 2025)
 
 ### Conference Reviewer
 - NeurIPS (2023, 2024, 2025)
