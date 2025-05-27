@@ -98,6 +98,7 @@ IEEE International Conference on Data Mining, 2023. (CCF-B)
 - ICLR (2025)
 - IJCAI (2025)
 - SIGIR (2025)
+- ACM MM (2025)
 
 ### Journal Reviewer
 - IEEE Transactions on Knowledge and Data Engineering
