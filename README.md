@@ -42,25 +42,7 @@ ACM Transactions on Intelligent Systems and Technology, 2022. (SCI，SJTU-A，IF
 **Bin Lu**, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang\
 ACM International Conference on Information and Knowledge Management, 2020. (CCF-B, Oral, included in open-source project [LibCity](https://github.com/LibCity/Bigscity-LibCity))
 
-**[\[ICDE 2025\]]() Numerical Reasoning on Knowledge Graphs: From a Chain Perspective**\
-Ze Zhao, **Bin Lu**, Xiaoying Gan, Gu Tang, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
-IEEE International Conference on Data Engineering, Hong Kong, China, 2025. (CCF-A)
 
-**[\[KDD 2025\]]() R2MR: Review and Rewrite Modality for Recommendation**\
-Gu Tang, Jinghe Wang, Xiaoying Gan, **Bin Lu**, Ze Zhao, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
-ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2025. (CCF-A)
-
-**[\[Acta Oceanologica Sinica 2025\]]() Reconstruction of dissolved oxygen in the Tropical Pacific Ocean for past 100 years based on XGBoost**\
-Jingjing Shen, **Bin Lu**, Lei Zhou, Xiaoying Gan\
-Acta Oceanologica Sinica, 2025
-
-**[\[SIGIR 2024\]]() EditKG: Editing Knowledge Graph for Recommendation**\
-Gu Tang, Xiaoying Gan, Jinghe Wang, **Bin Lu**, Lyuwen Wu, Luoyi Fu, Chenghu Zhou\
-International ACM SIGIR Conference on Research and Development in Information Retrieval, 2024. (CCF-A)
-
-**[\[ICDM 2023\]](https://ieeexplore.ieee.org/document/10415791) Graph Open-Set Recognition via Entropy Message Passing**\
-Lina Yang, **Bin Lu**, Xiaoying Gan\
-IEEE International Conference on Data Mining, 2023. (CCF-B)
 
 ## Project
 
