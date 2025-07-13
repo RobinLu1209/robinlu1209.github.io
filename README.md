@@ -77,7 +77,7 @@ ACM International Conference on Information and Knowledge Management, 2020. (CCF
 
 ### Conference Reviewer
 - NeurIPS (2023, 2024, 2025)
-- KDD (2025)
+- KDD (2025, 2026)
 - ICLR (2025)
 - IJCAI (2025)
 - SIGIR (2025)
@@ -88,6 +88,7 @@ ACM International Conference on Information and Knowledge Management, 2020. (CCF
 - IEEE Transactions on Intelligent Transportation Systems
 - ACM Transactions on Knowledge Discovery from Data
 - IEEE Transactions on Big Data
+- IEEE Transactions on Cybernetics
 - IEEE Transactions on Network Science and Engineering
 - Information Fusion
 - China Communications (《中国通信》英文版)
