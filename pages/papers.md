@@ -1,5 +1,5 @@
 # Full Publications
-1. **卢彬**，甘小莺，甘雨，唐顾，马婷晏，吴律文，赵泽，傅洛伊，金梦，王新兵，周成虎. “[面向开放互联网的科学数据挖掘与理解]()”,《计算机学报》, 2025. (CCF-中文A类)
+1. **卢彬**，甘小莺，甘雨，唐顾，马婷晏，吴律文，赵泽，傅洛伊，金梦，王新兵，周成虎. “[面向开放互联网的科学数据挖掘与理解]()”,《计算机学报》, 2025.
 2. Takamitsu Ito, Hernan Eduardo Garcia, Zhankun Wang, Lijing Cheng, Juan Du, Christopher John Roach, Yuntao Zhou, Jonathan Sharp, Siv K Lauvset, Shoshiro Minobe, Seth M Bushinsky, **Bin Lu**, Giangiacomo Navarra, "[Assessing the Observational Uncertainties of Dissolved Oxygen Climatology and Seasonal Cycle through a Coordinated Intercomparison Project](https://essopenarchive.org/doi/full/10.22541/essoar.175201429.96576419)", Global Biogeochemical Cycles (**GBC**), 2025.
 3. Tingyan Ma, **Bin Lu**, Ze Zhao, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou, "[PromptEG: Scalable Prompt-based Temporal Generalization on Evolving Graphs]()", IEEE International Conference on Data Mining (**ICDM**), 2025.
 4. Zijun Di, Peng Zheng, **Bin Lu**, Kai Guan, Luoyi Fu, Ningdi Jin, Ye Chen, Xiaoying Gan, Lei Zhou, Xinbing Wang, Chenghu Zhou, "[Graph Out-of-Distribution Generalization Based on Structural Entropy Guided Information Bottleneck]()", Transactions on Knowledge Discovery from Data (**TKDD**), 2025.
