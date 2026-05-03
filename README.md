@@ -1,15 +1,27 @@
 # Bin Lu's homepage
 
 ## Biography
-I'm currently a postdoctoral researcher in [IIOT Research Center](http://iiot.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I obtained PhD degree from the Department of Electronic Engineering at Shanghai Jiao Tong University in March 2025, supervised by Professor [Xiaoying Gan](https://iiot.sjtu.edu.cn/#/xygan) and Professor [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/). I received bachelor from Shanghai Jiao Tong University with honors in July 2020.
+I'm currently a postdoctoral researcher in [Data Intelligence Research Center](https://ai4earth.acemap.cn/#/team) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I obtained PhD degree from the Department of Electronic Engineering at Shanghai Jiao Tong University in March 2025, supervised by Professor [Xiaoying Gan](https://iiot.sjtu.edu.cn/#/xygan) and Professor [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/). I received bachelor from Shanghai Jiao Tong University with honors in July 2020.
 
 My current *research interests* focus on revealing heterogeneous structure of ubiquitous entities and discovering underlying knowledge with machine learning techniques.
-- **Graph Mining**: Representation, Transfer and Generalization on Graphs
-- **AI for Science**: GeoAI, Urban Computing, Open Scientific Data
-
-![research_interest](research_interest.png)
+- **Graph Mining**: LLM for Graph, Graph for LLM, Spatiotemporal Graph Mining
+- **AI for Science**: AI for Ocean Science, Scientific Agent
 
 ## Selected Publications \([Full Publications](pages/papers.md)\)
+*An asterisk (\*) denotes the corresponding author.*
+
+**[\[ICML 2026\]]() Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle**\
+Xu Bai, **Bin Lu\***, Kun Zhang, Shengbo Chen, Xinbing Wang, Chenghu Zhou, Meng Jin*\
+International Conference on Machine Learning, 2026. (CCF-A)
+
+**[\[ICML 2026\]]() Slash the Sink: Sharpening Structural Attention Inside LLMs**\
+Yiming Liu, **Bin Lu\***, Xinbing Wang, Chenghu Zhou, Meng Jin*\
+International Conference on Machine Learning, 2026. (CCF-A)
+
+**[\[ICLR 2026\]]() \<SOG_k\>: One LLM Token for Explicit Graph Structural Understanding**\
+Jingyao Wu, **Bin Lu\***, Zijun Di, Xiaoying Gan, Meng Jin, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
+International Conference on Learning Representations, 2026. (CCF-A)
+
 **[\[ICML 2024\]](https://proceedings.mlr.press/v235/lu24n.html)  OxyGenerator: Reconstructing Global Ocean Deoxygenation Over a Century with Deep Learning** [\[ICLR Workshop 2024\]](https://www.climatechange.ai/events/iclr2024)[\[EGU\]](https://meetingorganizer.copernicus.org/EGU24/EGU24-5926.html)[\[Dataset\]](https://msdc.qdio.ac.cn/data/metadata-special-detail?id=1923297698308493313&otherId=1923297698316881921)\
 **Bin Lu**, Ze Zhao, Luyu Han, Xiaoying Gan, Yuntao Zhou, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Jing Zhang\
 International Conference on Machine Learning, 2024. (CCF-A)
@@ -20,7 +32,7 @@ IEEE Transactions on Knowledge and Data Engineering, 2024. (CCF-A)
 
 **[\[ICLR 2024\]](https://openreview.net/forum?id=HFtrXBfNru) Temporal Generalization Estimation in Evolving Graphs** [\[paper\]](https://openreview.net/forum?id=HFtrXBfNru)[\[NeurIPS Workshop 2023\]](https://nips.cc/virtual/2023/workshop/66514)\
 **Bin Lu**, Tingyan Ma, Xiaoying Gan, Xinbing Wang, Yunqiang Zhu, Chenghu Zhou, Shiyu Liang\
-The Twelfth International Conference on Learning Representations, 2024. (Tsinghua-A, the short version is presented in NeurIPS 2023 Workshop on Self-Supervised Learning - Theory and Practice.) 
+The Twelfth International Conference on Learning Representations, 2024. (CCF-A, the short version is presented in NeurIPS 2023 Workshop on Self-Supervised Learning - Theory and Practice.) 
 
 **[\[WWW 2023\]](https://doi.org/10.1145/3543873.3587305) DataExpo: A One-stop Dataset Service for Open Science Research** [\[demo\]](https://dataexpo.acemap.info/)[\[paper\]](https://doi.org/10.1145/3543873.3587305)\
 **Bin Lu**, Lynwen Wu, Lina Yang, Chenxing Sun, Wei Liu, Xiaoying Gan, Shiyu Liang, Xinbing Wang, Chenghu Zhou\
