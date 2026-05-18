@@ -10,6 +10,22 @@ My current *research interests* focus on revealing heterogeneous structure of ub
 ## Selected Publications \([Full Publications](pages/papers.md)\)
 *An asterisk (\*) denotes the corresponding author.*
 
+**[[KDD 2026]]() OceanVerse: Evaluable 4D Ocean Element Reconstruction Dataset under Realistic Sparsity**\
+**Bin Lu**, Jingjing Shen, Ze Zhao, Jianping Zhou, Haonan Qi, Luyu Han, Xiaoying Gan, Meng Jin, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou\
+ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026. (CCF-A)
+
+**[[KDD 2026]]() Hybrid Graph Learning Reconstructs Global Ocean Oxygen Spatiotemporal Changes**\
+**Bin Lu**, Luyu Han, Ze Zhao, Jingjing Shen, Haonan Qi, Xiaoying Gan, Lei Zhou, Meng Jin, Lixin Qu, Yuntao Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Jing Zhang\
+ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026. (CCF-A)
+
+**[[KDD 2026]]() Compass: Navigating Global Marine Lead Data Integration through Expert-Guided LLM Agent**\
+Yiming Liu, **Bin Lu\***, Meng Jin, Ziyuan Sang, Shuo Jiang, Lei Zhou, Xinbing Wang, Chenghu Zhou, Jing Zhang\
+ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026. (CCF-A)
+
+**[[KDD 2026]]() From Surface to Depth: Diagnosing Ocean Vertical Velocity with 3D Frequency Operator**\
+Haonan Qi, **Bin Lu\***, Yimian Hu, Ze Zhao, Meng Jin, Lixin Qu, Shuai Li, Shizhen Zhao, Lei Zhou, Xiaoying Gan, Xinbing Wang, Chenghu Zhou\
+ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026. (CCF-A)
+
 **[\[ICML 2026\]]() Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle**\
 Xu Bai, **Bin Lu\***, Kun Zhang, Shengbo Chen, Xinbing Wang, Chenghu Zhou, Meng Jin*\
 International Conference on Machine Learning, 2026. (CCF-A)
