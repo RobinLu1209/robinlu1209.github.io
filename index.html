@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Bin Lu (卢彬) | Shanghai Jiao Tong University</title>
-  <meta name="description" content="Academic homepage of Bin Lu, postdoctoral researcher at Shanghai Jiao Tong University. Research interests include AI for Science, AI for Ocean Science, Graph Mining, LLM for Graph, and Scientific Agents." />
+  <meta name="description" content="Academic homepage of Bin Lu, postdoctoral researcher at Shanghai Jiao Tong University. Research interests include AI for Ocean Science, Graph Mining, Scientific Agents, and ocean deoxygenation." />
   <style>
     :root {
       --bg: #ffffff;
@@ -176,7 +176,7 @@
       border-radius: 0 10px 10px 0;
       margin: 18px 0;
     }
-    .research-grid, .project-grid {
+    .research-grid {
       display: grid;
       grid-template-columns: repeat(2, minmax(0, 1fr));
       gap: 14px;
@@ -190,6 +190,99 @@
     }
     .tile b { display: block; color: #111827; margin-bottom: 4px; }
     .tile span { color: var(--muted); font-size: 14.5px; }
+    .project-list {
+      display: flex;
+      flex-direction: column;
+      gap: 22px;
+      margin-top: 14px;
+    }
+    .project-item {
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 16px;
+      padding: 18px;
+      box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);
+    }
+    .project-row {
+      display: grid;
+      grid-template-columns: 260px minmax(0, 1fr);
+      gap: 22px;
+      align-items: stretch;
+    }
+    .project-shot {
+      display: block;
+      position: relative;
+      overflow: hidden;
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      background: linear-gradient(135deg, #f6f9fc, #edf4fb);
+      min-height: 165px;
+      text-decoration: none;
+    }
+    .project-shot img {
+      width: 100%;
+      height: 100%;
+      min-height: 165px;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.25s ease;
+    }
+    .project-shot:hover img { transform: scale(1.025); }
+    .project-shot.placeholder {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 165px;
+      color: #6b7280;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+    }
+    .project-content {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      min-width: 0;
+    }
+    .project-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 18px;
+      margin-bottom: 8px;
+    }
+    .project-title {
+      margin: 0;
+      font-size: 19px;
+      color: #111827;
+    }
+    .project-subtitle {
+      display: block;
+      margin-top: 4px;
+      color: var(--accent-dark);
+      font-size: 14px;
+      font-weight: 600;
+    }
+    .project-link {
+      flex: 0 0 auto;
+      padding: 6px 12px;
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      color: var(--accent-dark);
+      text-decoration: none;
+      font-size: 13.5px;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+    .project-link:hover {
+      background: var(--soft);
+      text-decoration: none;
+    }
+    .project-desc {
+      margin: 0;
+      color: #374151;
+      line-height: 1.65;
+    }
     .news, .pubs, .simple-list { padding-left: 0; list-style: none; }
     .news li, .pubs li, .simple-list li {
       margin: 0 0 13px;
@@ -201,22 +294,56 @@
       font-weight: 700;
       color: var(--accent-dark);
     }
+
+    .pub-list {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      margin-top: 18px;
+    }
     .pub {
-      padding: 14px 16px;
+      padding: 16px 18px;
       border: 1px solid var(--line);
-      border-radius: 12px;
+      border-radius: 14px;
       background: #fff;
+      box-shadow: 0 8px 24px rgba(15, 23, 42, 0.035);
     }
-    .pub + .pub { margin-top: 12px; }
-    .venue {
-      font-weight: 700;
-      color: var(--accent-dark);
+    .pub-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 16px;
+      margin-bottom: 7px;
     }
-    .title {
-      font-weight: 700;
+    .pub-title {
+      font-weight: 750;
       color: #111827;
+      font-size: 16.5px;
+      line-height: 1.35;
     }
-    .authors, .meta { color: var(--muted); font-size: 14.5px; }
+    .venue-badge {
+      flex: 0 0 auto;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 78px;
+      border-radius: 999px;
+      padding: 4px 10px;
+      background: var(--soft);
+      color: var(--accent-dark);
+      font-size: 12.5px;
+      font-weight: 750;
+      white-space: nowrap;
+    }
+    .authors, .pub-meta {
+      color: var(--muted);
+      font-size: 14.5px;
+      line-height: 1.55;
+    }
+    .pub-meta {
+      margin-top: 4px;
+      color: #4b5563;
+    }
     .tag {
       display: inline-block;
       margin-left: 6px;
@@ -228,6 +355,51 @@
       font-weight: 600;
       vertical-align: 1px;
     }
+
+    .cv-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+      margin-top: 14px;
+    }
+    .cv-block {
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: #fff;
+      padding: 16px 18px;
+      box-shadow: 0 8px 24px rgba(15, 23, 42, 0.03);
+    }
+    .cv-block.wide { grid-column: 1 / -1; }
+    .cv-block h3 {
+      margin: 0 0 13px;
+      color: var(--accent-dark);
+      font-size: 17px;
+    }
+    .timeline { list-style: none; padding: 0; margin: 0; }
+    .timeline li {
+      display: grid;
+      grid-template-columns: 76px minmax(0, 1fr);
+      gap: 14px;
+      padding: 10px 0;
+      border-top: 1px solid #eef2f7;
+    }
+    .timeline li:first-child { border-top: none; padding-top: 0; }
+    .year {
+      color: var(--accent-dark);
+      font-weight: 750;
+      white-space: nowrap;
+    }
+    .activity-list { list-style: none; padding: 0; margin: 0; }
+    .activity-list li {
+      margin: 0 0 10px;
+      line-height: 1.55;
+    }
+    .activity-label {
+      display: inline-block;
+      min-width: 148px;
+      color: var(--accent-dark);
+      font-weight: 750;
+    }
     footer {
       color: var(--muted);
       font-size: 13px;
@@ -237,7 +409,14 @@
     @media (max-width: 900px) {
       .wrap { grid-template-columns: 1fr; gap: 26px; }
       aside.profile-card { position: relative; top: auto; }
-      .research-grid, .project-grid { grid-template-columns: 1fr; }
+      .research-grid { grid-template-columns: 1fr; }
+      .project-row { grid-template-columns: 1fr; }
+      .project-shot, .project-shot img { min-height: 210px; }
+      .pub-top { flex-direction: column-reverse; gap: 8px; }
+      .cv-grid { grid-template-columns: 1fr; }
+      .timeline li { grid-template-columns: 1fr; gap: 4px; }
+      .activity-label { display: block; margin-bottom: 2px; }
+      .project-head { flex-direction: column; }
       .nav { align-items: flex-start; flex-direction: column; padding-top: 14px; padding-bottom: 14px; gap: 10px; }
       .navlinks { gap: 12px; justify-content: flex-start; }
     }
@@ -262,7 +441,6 @@
   <div class="wrap" id="home">
     <aside class="profile-card">
       <div class="portrait">
-        <!-- Replace with your own photo, e.g. assets/binlu.jpg -->
         <img src="images/bin_square.jpg" alt="Bin Lu" />
       </div>
       <h1>Bin Lu</h1>
@@ -273,7 +451,7 @@
         Shanghai Jiao Tong University
       </p>
       <div class="info">
-        <p><b>Office:</b> 435 SEIEE No.1 Building</p>
+        <p><b>Office:</b> 437 SEIEE No.1 Building</p>
         <p><b>Email:</b> <a href="mailto:robinlu1209@sjtu.edu.cn">robinlu1209@sjtu.edu.cn</a></p>
         <p><b>Address:</b> 800 Dongchuan Road, Shanghai, China</p>
       </div>
@@ -289,13 +467,14 @@
       <section id="profile">
         <h2>Profile</h2>
         <p class="lead">
-          I am currently a postdoctoral researcher in the Data Intelligence Research Center at Shanghai Jiao Tong University. I received my Ph.D. degree from the Department of Electronic Engineering, Shanghai Jiao Tong University in March 2025, supervised by Prof. Xiaoying Gan and Prof. Xinbing Wang. I received my bachelor's degree from Shanghai Jiao Tong University with honors in July 2020.
+          I am currently a postdoctoral researcher in the <a href="https://dirc.sjtu.edu.cn/#/">Data Intelligence Research Center</a> at Shanghai Jiao Tong University. I received my Ph.D. degree from the Department of Electronic Engineering, Shanghai Jiao Tong University in March 2025, supervised by Prof. <a href="https://icisee.sjtu.edu.cn/jiaoshiml/ganxiaoying.html">Xiaoying Gan</a> and Prof. <a href="https://www.cs.sjtu.edu.cn/~wang-xb/">Xinbing Wang</a>. I received my bachelor's degree from Shanghai Jiao Tong University with honors in July 2020.
         </p>
         <p>
-          My research focuses on discovering heterogeneous structures and underlying knowledge from ubiquitous scientific and relational data using machine learning techniques. I am particularly interested in graph mining, AI for Science, AI for Ocean Science, and scientific agents.
+          Together with Prof. <a href="https://yume-sjtu.github.io/">Meng Jin</a>, I lead the <a href="https://ai4earth.acemap.info/#/">AI for Science</a> group, where we explore machine learning methods for scientific discovery, including Earth system modeling and data-driven understanding of large-scale academic graphs. My research focuses on discovering heterogeneous structures and underlying knowledge from ubiquitous scientific data using advanced machine learning techniques.
+        </p>
         </p>
         <div class="highlight">
-          I aim to build reliable machine learning systems that bridge sparse observations, scientific knowledge, and interpretable discovery, with applications ranging from global ocean element reconstruction to graph-structured intelligence.
+          Prospective Ph.D. and Master’s students interested in joining our group are warmly encouraged to contact me. We also welcome SJTU undergraduates and visiting students throughout the year.
         </div>
       </section>
 
@@ -304,7 +483,7 @@
         <div class="research-grid">
           <div class="tile">
             <b>AI for Ocean Science</b>
-            <span>4D ocean element reconstruction, dissolved oxygen, deoxygenation, sparse observations, climate impact analysis.</span>
+            <span>Designing Earth system AI models for multi-sphere coupling to reconstruct sparse ocean element observations under climate change.</span>
           </div>
           <div class="tile">
             <b>Scientific Agents</b>
@@ -312,145 +491,257 @@
           </div>
           <div class="tile">
             <b>Graph Mining</b>
-            <span>Spatiotemporal graph learning, graph generalization, graph coarsening, and few-shot graph learning.</span>
+            <span>Understanding and reasoning over graph structures with large language models, with applications in large-scale scholarly network analysis.</span>
           </div>
           <div class="tile">
-            <b>LLM × Graph</b>
-            <span>LLM for graph reasoning, graph for LLMs, structural attention, and graph-enhanced foundation models.</span>
+            <b>Ocean Deoxygenation</b>
+            <span>Advancing AI-driven understanding of ocean deoxygenation mechanisms and their climatic and ecological impacts.</span>
           </div>
         </div>
       </section>
 
-      <section id="news">
+      <!-- <section id="news">
         <h2>News</h2>
         <ul class="news">
           <li><span class="date">2026</span> Four papers accepted by KDD 2026, covering ocean element reconstruction, scientific agents, marine lead data integration, and ocean vertical velocity diagnosis.</li>
           <li><span class="date">2026</span> Papers accepted by ICML 2026 and ICLR 2026 on graph coarsening, structural attention inside LLMs, and explicit graph structural understanding.</li>
           <li><span class="date">2025</span> Awarded Baidu Fellowship.</li>
-          <li><span class="date">2024</span> OxyGenerator was published at ICML 2024, presenting deep learning reconstruction of global ocean deoxygenation.</li>
         </ul>
-      </section>
+      </section> -->
 
       <section id="publications">
         <h2>Selected Publications</h2>
-        <p class="meta">An asterisk (*) denotes the corresponding author. Please see the full publication list for more papers.</p>
+        <p class="meta">Selected publications are shown below. <a href="pages/papers.html">View full publication list by year.</a>
+        <div class="pub-list">
+          <article class="pub">
+            <div class="pub-top">
+              <div class="pub-title">OceanVerse: Evaluable 4D Ocean Element Reconstruction Dataset under Realistic Sparsity</div>
+              <span class="venue-badge">KDD 2026</span>
+            </div>
+            <div class="authors"><strong>Bin Lu</strong>, Jingjing Shen, Ze Zhao, Jianping Zhou, Haonan Qi, Luyu Han, Xiaoying Gan, Meng Jin, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou</div>
+            <div class="pub-meta">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026. <span class="tag">CCF-A</span></div>
+          </article>
 
-        <div class="pub">
-          <div><span class="venue">KDD 2026</span> <span class="title">OceanVerse: Evaluable 4D Ocean Element Reconstruction Dataset under Realistic Sparsity</span></div>
-          <div class="authors">Bin Lu, Jingjing Shen, Ze Zhao, Jianping Zhou, Haonan Qi, Luyu Han, Xiaoying Gan, Meng Jin, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou</div>
-          <div class="meta">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026. <span class="tag">CCF-A</span></div>
+          <article class="pub">
+            <div class="pub-top">
+              <div class="pub-title">Hybrid Graph Learning Reconstructs Global Ocean Oxygen Spatiotemporal Changes</div>
+              <span class="venue-badge">KDD 2026</span>
+            </div>
+            <div class="authors"><strong>Bin Lu</strong>, Luyu Han, Ze Zhao, Jingjing Shen, Haonan Qi, Xiaoying Gan, Lei Zhou, Meng Jin, Lixin Qu, Yuntao Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Jing Zhang</div>
+            <div class="pub-meta">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026. <span class="tag">CCF-A</span></div>
+          </article>
+
+          <article class="pub">
+            <div class="pub-top">
+              <div class="pub-title">Compass: Navigating Global Marine Lead Data Integration through Expert-Guided LLM Agent</div>
+              <span class="venue-badge">KDD 2026</span>
+            </div>
+            <div class="authors">Yiming Liu, <strong>Bin Lu*</strong>, Meng Jin, Ziyuan Sang, Shuo Jiang, Lei Zhou, Xinbing Wang, Chenghu Zhou, Jing Zhang</div>
+            <div class="pub-meta">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026. <span class="tag">CCF-A</span></div>
+          </article>
+
+          <article class="pub">
+            <div class="pub-top">
+              <div class="pub-title">From Surface to Depth: Diagnosing Ocean Vertical Velocity with 3D Frequency Operator</div>
+              <span class="venue-badge">KDD 2026</span>
+            </div>
+            <div class="authors">Haonan Qi, <strong>Bin Lu*</strong>, Yimian Hu, Ze Zhao, Meng Jin, Lixin Qu, Shuai Li, Shizhen Zhao, Lei Zhou, Xiaoying Gan, Xinbing Wang, Chenghu Zhou</div>
+            <div class="pub-meta">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026. <span class="tag">CCF-A</span></div>
+          </article>
+
+          <article class="pub">
+            <div class="pub-top">
+              <div class="pub-title">Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle</div>
+              <span class="venue-badge">ICML 2026</span>
+            </div>
+            <div class="authors">Xu Bai, <strong>Bin Lu*</strong>, Kun Zhang, Shengbo Chen, Xinbing Wang, Chenghu Zhou, Meng Jin*</div>
+            <div class="pub-meta">International Conference on Machine Learning, 2026. <span class="tag">CCF-A</span></div>
+          </article>
+
+          <article class="pub">
+            <div class="pub-top">
+              <div class="pub-title">Slash the Sink: Sharpening Structural Attention Inside LLMs</div>
+              <span class="venue-badge">ICML 2026</span>
+            </div>
+            <div class="authors">Yiming Liu, <strong>Bin Lu*</strong>, Xinbing Wang, Chenghu Zhou, Meng Jin*</div>
+            <div class="pub-meta">International Conference on Machine Learning, 2026. <span class="tag">CCF-A</span></div>
+          </article>
+
+          <article class="pub">
+            <div class="pub-top">
+              <div class="pub-title">&lt;SOG_k&gt;: One LLM Token for Explicit Graph Structural Understanding</div>
+              <span class="venue-badge">ICLR 2026</span>
+            </div>
+            <div class="authors">Jingyao Wu, <strong>Bin Lu*</strong>, Zijun Di, Xiaoying Gan, Meng Jin, Luoyi Fu, Xinbing Wang, Chenghu Zhou</div>
+            <div class="pub-meta">International Conference on Learning Representations, 2026. <span class="tag">CCF-A</span></div>
+          </article>
+
+          <article class="pub">
+            <div class="pub-top">
+              <div class="pub-title">OxyGenerator: Reconstructing Global Ocean Deoxygenation Over a Century with Deep Learning</div>
+              <span class="venue-badge">ICML 2024</span>
+            </div>
+            <div class="authors"><strong>Bin Lu</strong>, Ze Zhao, Luyu Han, Xiaoying Gan, Yuntao Zhou, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Jing Zhang</div>
+            <div class="pub-meta">International Conference on Machine Learning, 2024. <span class="tag">CCF-A</span></div>
+          </article>
+
+          <article class="pub">
+            <div class="pub-top">
+              <div class="pub-title">Graph Out-of-Distribution Generalization with Controllable Data Augmentation</div>
+              <span class="venue-badge">TKDE 2024</span>
+            </div>
+            <div class="authors"><strong>Bin Lu</strong>, Ze Zhao, Xiaoying Gan, Shiyu Liang, Luoyi Fu, Xinbing Wang, Chenghu Zhou</div>
+            <div class="pub-meta">IEEE Transactions on Knowledge and Data Engineering, 2024. <span class="tag">CCF-A</span></div>
+          </article>
+
+
+          <article class="pub">
+            <div class="pub-top">
+              <div class="pub-title">Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer</div>
+              <span class="venue-badge">KDD 2022</span>
+            </div>
+            <div class="authors"><strong>Bin Lu</strong>, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang</div>
+            <div class="pub-meta">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2022. <span class="tag">CCF-A</span></div>
+          </article>
+          <article class="pub">
+            <div class="pub-top">
+              <div class="pub-title">Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation</div>
+              <span class="venue-badge">KDD 2022</span>
+            </div>
+            <div class="authors"><strong>Bin Lu</strong>, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang</div>
+            <div class="pub-meta">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2022. <span class="tag">CCF-A</span></div>
+          </article>
         </div>
 
-        <div class="pub">
-          <div><span class="venue">KDD 2026</span> <span class="title">Hybrid Graph Learning Reconstructs Global Ocean Oxygen Spatiotemporal Changes</span></div>
-          <div class="authors">Bin Lu, Luyu Han, Ze Zhao, Jingjing Shen, Haonan Qi, Xiaoying Gan, Lei Zhou, Meng Jin, Lixin Qu, Yuntao Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Jing Zhang</div>
-          <div class="meta">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026. <span class="tag">CCF-A</span></div>
-        </div>
-
-        <div class="pub">
-          <div><span class="venue">KDD 2026</span> <span class="title">Compass: Navigating Global Marine Lead Data Integration through Expert-Guided LLM Agent</span></div>
-          <div class="authors">Yiming Liu, Bin Lu*, Meng Jin, Ziyuan Sang, Shuo Jiang, Lei Zhou, Xinbing Wang, Chenghu Zhou, Jing Zhang</div>
-          <div class="meta">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026. <span class="tag">CCF-A</span></div>
-        </div>
-
-        <div class="pub">
-          <div><span class="venue">KDD 2026</span> <span class="title">From Surface to Depth: Diagnosing Ocean Vertical Velocity with 3D Frequency Operator</span></div>
-          <div class="authors">Haonan Qi, Bin Lu*, Yimian Hu, Ze Zhao, Meng Jin, Lixin Qu, Shuai Li, Shizhen Zhao, Lei Zhou, Xiaoying Gan, Xinbing Wang, Chenghu Zhou</div>
-          <div class="meta">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026. <span class="tag">CCF-A</span></div>
-        </div>
-
-        <div class="pub">
-          <div><span class="venue">ICML 2026</span> <span class="title">Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle</span></div>
-          <div class="authors">Xu Bai, Bin Lu*, Kun Zhang, Shengbo Chen, Xinbing Wang, Chenghu Zhou, Meng Jin*</div>
-          <div class="meta">International Conference on Machine Learning, 2026. <span class="tag">CCF-A</span></div>
-        </div>
-
-        <div class="pub">
-          <div><span class="venue">ICML 2026</span> <span class="title">Slash the Sink: Sharpening Structural Attention Inside LLMs</span></div>
-          <div class="authors">Yiming Liu, Bin Lu*, Xinbing Wang, Chenghu Zhou, Meng Jin*</div>
-          <div class="meta">International Conference on Machine Learning, 2026. <span class="tag">CCF-A</span></div>
-        </div>
-
-        <div class="pub">
-          <div><span class="venue">ICLR 2026</span> <span class="title">&lt;SOG_k&gt;: One LLM Token for Explicit Graph Structural Understanding</span></div>
-          <div class="authors">Jingyao Wu, Bin Lu*, Zijun Di, Xiaoying Gan, Meng Jin, Luoyi Fu, Xinbing Wang, Chenghu Zhou</div>
-          <div class="meta">International Conference on Learning Representations, 2026. <span class="tag">CCF-A</span></div>
-        </div>
-
-        <div class="pub">
-          <div><span class="venue">ICML 2024</span> <span class="title">OxyGenerator: Reconstructing Global Ocean Deoxygenation Over a Century with Deep Learning</span></div>
-          <div class="authors">Bin Lu, Ze Zhao, Luyu Han, Xiaoying Gan, Yuntao Zhou, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Jing Zhang</div>
-          <div class="meta">International Conference on Machine Learning, 2024. <span class="tag">CCF-A</span></div>
-        </div>
-
-        <div class="pub">
-          <div><span class="venue">TKDE 2024</span> <span class="title">Graph Out-of-Distribution Generalization with Controllable Data Augmentation</span></div>
-          <div class="authors">Bin Lu, Ze Zhao, Xiaoying Gan, Shiyu Liang, Luoyi Fu, Xinbing Wang, Chenghu Zhou</div>
-          <div class="meta">IEEE Transactions on Knowledge and Data Engineering, 2024. <span class="tag">CCF-A</span></div>
-        </div>
-
-        <div class="pub">
-          <div><span class="venue">KDD 2022</span> <span class="title">Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation</span></div>
-          <div class="authors">Bin Lu, Xiaoying Gan, Lina Yang, Weinan Zhang, Luoyi Fu, Xinbing Wang</div>
-          <div class="meta">ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022. <span class="tag">Oral</span></div>
-        </div>
       </section>
 
       <section id="projects">
         <h2>Projects</h2>
-        <div class="project-grid">
-          <div class="tile">
-            <b>DDE DataExpo</b>
-            <span>A one-stop dataset service for open science research under the Deep-time Digital Earth program, supporting large-scale discovery and integration of geoscience datasets.</span>
-          </div>
-          <div class="tile">
-            <b>Jingwei</b>
-            <span>An AI-driven platform for reconstructing global ocean changes, with a focus on sparse ocean observations, dissolved oxygen, and long-term deoxygenation.</span>
-          </div>
-          <div class="tile">
-            <b>OceanVerse</b>
-            <span>An evaluable 4D ocean element reconstruction dataset designed for realistic sparsity and robust benchmarking of ocean AI models.</span>
-          </div>
-          <div class="tile">
-            <b>Compass</b>
-            <span>An expert-guided LLM agent for marine scientific data integration, discovery, and analysis.</span>
-          </div>
+        <div class="project-list">
+          <article class="project-item">
+            <div class="project-row">
+              <a class="project-shot" href="https://jingwei.acemap.info/" target="_blank" rel="noopener" aria-label="Open Jingwei online system">
+                <img src="images/jingwei_screenshot.jpg" alt="Jingwei system screenshot" />
+              </a>
+              <div class="project-content">
+                <div class="project-head">
+                  <div>
+                    <h3 class="project-title">Jingwei</h3>
+                    <span class="project-subtitle">AI-driven global ocean element reconstruction platform</span>
+                  </div>
+                  <a class="project-link" href="https://jingwei.acemap.info/" target="_blank" rel="noopener">Online System →</a>
+                </div>
+                <p class="project-desc">
+                  Jingwei is an interdisciplinary platform for reconstructing long-term, global spatiotemporal variations of dissolved oxygen and other ocean elements from sparse observations. Built on a hybrid deep learning framework, it provides accurate reconstructions of ocean deoxygenation and supports mechanistic understanding of climate-driven ocean change. The name Jingwei comes from a mythical bird in Chinese mythology that persistently fills the sea with pebbles and twigs, echoing our effort to fill the gaps in sparse ocean observations with AI. The platform offers interactive data visualization, resource sharing, and continuous updates toward more ocean biogeochemical variables.
+                </p>
+              </div>
+            </div>
+          </article>
+
+          <article class="project-item">
+            <div class="project-row">
+              <a class="project-shot" href="https://dataexpo.deep-time.org/" target="_blank" rel="noopener" aria-label="Open DDE DataExpo online system">
+                <img src="images/dataexpo_screenshot.jpg" alt="DDE DataExpo system screenshot" />
+              </a>
+              <div class="project-content">
+                <div class="project-head">
+                  <div>
+                    <h3 class="project-title">DDE DataExpo</h3>
+                    <span class="project-subtitle">Large-scale geoscience data discovery under the Deep-time Digital Earth program</span>
+                  </div>
+                  <a class="project-link" href="https://dataexpo.deep-time.org/" target="_blank" rel="noopener">Online System →</a>
+                </div>
+                <p class="project-desc">
+                  DDE DataExpo is a data discovery and integration system developed under the Deep-time Digital Earth (DDE) Program, the first big science program initiated by the International Union of Geological Sciences. As a key component of the DDE data infrastructure, DataExpo aims to discover, organize, and integrate global geological and Earth science data resources. The system has crawled and indexed more than one million websites using large-scale geoscience keywords and has identified over 200,000 geological data resources, providing a foundation for open, reusable, and knowledge-driven Earth science research.
+                </p>
+              </div>
+            </div>
+          </article>
+
+          <article class="project-item">
+            <div class="project-row">
+              <a class="project-shot" href="https://xindex.acemap.info/" target="_blank" rel="noopener" aria-label="Open X-index online system">
+                <img src="images/xindex_screenshot.jpg" alt="X-index system screenshot" />
+              </a>
+              <div class="project-content">
+                <div class="project-head">
+                  <div>
+                    <h3 class="project-title">X-index</h3>
+                    <span class="project-subtitle">Interdisciplinary research literature analysis on Acemap</span>
+                  </div>
+                  <a class="project-link" href="https://xindex.acemap.info/" target="_blank" rel="noopener">Online System →</a>
+                </div>
+                <p class="project-desc">
+                  X-index is a research literature analysis tool developed on the Acemap platform to evaluate the academic value of papers from an interdisciplinary perspective. The system maps research outcomes onto disciplinary coordinate systems and quantitatively measures disciplinary diversity and conceptual novelty. It supports dynamic charts for tracking long-term concept evolution, identifies patterns such as tool-driven research, and provides concept heatmaps and data matrices for tracing cross-disciplinary innovation within large-scale literature collections.
+                </p>
+              </div>
+            </div>
+          </article>
         </div>
       </section>
 
       <section id="honors">
-        <h2>Honors & Grants</h2>
-        <h3>Awards</h3>
-        <ul class="simple-list">
-          <li>Baidu Fellowship, 2025.</li>
-          <li>National Scholarship, The Ministry of Education of China, 2024.</li>
-          <li>Wen-Tsun Wu AI Honorary Doctoral Scholarship, AI Institute of SJTU, 2022.</li>
-          <li>National Scholarship, The Ministry of Education of China, 2022 and 2021.</li>
-          <li>Outstanding Teaching Assistant Award, Center for Teaching and Learning Development of SJTU, 2021.</li>
-          <li>Shanghai Honor Graduates, SJTU, 2020.</li>
-        </ul>
-        <h3>Grants</h3>
-        <ul class="simple-list">
-          <li>Basic Research Project for PhD Students, National Natural Science Foundation of China, 2024.05–2025.12, Principal Investigator.</li>
-          <li>首届中国科协青年人才托举工程博士生专项计划, 2024.</li>
-        </ul>
+        <h2>Honors &amp; Grants</h2>
+        <div class="cv-grid">
+          <div class="cv-block wide">
+            <h3>Awards</h3>
+            <ul class="timeline">
+              <li><span class="year">2025</span><span>Baidu Fellowship (10 awardees worldwide).</span></li>
+              <li><span class="year">2024</span><span>National Scholarship, The Ministry of Education of China (国家奖学金).</span></li>
+              <li><span class="year">2022</span><span>Wen-Tsun Wu AI Honorary Doctoral Scholarship, AI Institute of SJTU (吴文俊人工智能荣誉博士资助).</span></li>
+              <li><span class="year">2022</span><span>National Scholarship, The Ministry of Education of China (国家奖学金).</span></li>
+              <li><span class="year">2021</span><span>National Scholarship, The Ministry of Education of China (国家奖学金).</span></li>
+              <li><span class="year">2021</span><span>Outstanding Teaching Assistant Award, Center for Teaching and Learning Development of SJTU.</span></li>
+              <li><span class="year">2020</span><span>Shanghai Honor Graduates (上海市优秀毕业生), SJTU.</span></li>
+              <li><span class="year">2020</span><span>ACM SIGIR Student Travel Grant for CIKM, ACM SIGIR.</span></li>
+              <li><span class="year">2019</span><span>Excellent Intern, Intel Asia-Pacific Research &amp; Development Ltd.</span></li>
+            </ul>
+          </div>
+
+          <div class="cv-block wide">
+            <h3>Grants</h3>
+            <ul class="timeline">
+              <li><span class="year">2024</span><span>Basic Research Project for PhD Students, National Natural Science Foundation of China（首届国家自然科学基金博士生项目）, Principal Investigator.</span></li>
+              <li><span class="year">2024</span><span>首届中国科协青年人才托举工程博士生专项计划（托举学会：中国电子学会）.</span></li>
+            </ul>
+          </div>
+        </div>
       </section>
 
       <section id="service">
         <h2>Professional Activities</h2>
-        <h3>Program Committee Member</h3>
-        <ul class="simple-list">
-          <li>“Tackling Climate Change with Machine Learning” Workshop, NeurIPS 2024.</li>
-          <li>“Temporal Graph Learning” Workshop, NeurIPS 2023 and KDD 2025.</li>
-        </ul>
-        <h3>Conference Reviewer</h3>
-        <ul class="simple-list">
-          <li>NeurIPS, KDD, ICLR, IJCAI, SIGIR, ACM MM.</li>
-        </ul>
-        <h3>Journal Reviewer</h3>
-        <ul class="simple-list">
-          <li>IEEE TKDE, IEEE T-ITS, ACM TKDD, IEEE TBD, IEEE TCYB, IEEE TNSE, Information Fusion, China Communications.</li>
-        </ul>
+        <div class="cv-grid">
+        <div class="cv-block wide">
+            <h3>Conference PC Member/Reviewer</h3>
+            <ul class="activity-list">
+              NeurIPS (2023-2026), KDD (2025-2026), ICML (2025-2026), ICLR (2025), IJCAI (2025), SIGIR (2025), ACM MM (2025)
+            </ul>
+        </div>
+
+        <div class="cv-block wide">
+            <h3>Journal Reviewer</h3>
+            <ul class="activity-list">
+              <li><span class="activity-label">Ocean Science</span>npj Climate and Atmospheric Science; Geophysical Research Letters (GRL); Earth System Science Data (ESSD).</li>
+              <li><span class="activity-label">Computer Science</span>IEEE TKDE; IEEE TITS; ACM TKDD; IEEE TBD; IEEE TCYB; IEEE TNSE; Information Fusion; China Communications.</li>
+            </ul>
+        </div>
+        </div>
+        <!-- <div class="cv-grid">
+          <div class="cv-block">
+            <h3>Conference PC Member/Reviewer</h3>
+            <ul class="activity-list">
+              <li>NeurIPS, KDD, ICLR, IJCAI, SIGIR, ACM MM.</li>
+            </ul>
+          </div>
+
+          <div class="cv-block">
+            <h3>Journal Reviewer</h3>
+            <ul class="activity-list">
+              <li><span class="activity-label">Ocean &amp; Earth System</span><em>npj Climate and Atmospheric Science</em>; <em>Geophysical Research Letters</em> (GRL); <em>Earth System Science Data</em> (ESSD).</li>
+              <li><span class="activity-label">Computing &amp; AI</span>IEEE TKDE; IEEE T-ITS; ACM TKDD; IEEE TBD; IEEE TCYB; IEEE TNSE; Information Fusion; China Communications.</li>
+            </ul>
+          </div>
+        </div> -->
       </section>
 
       <section id="teaching">
@@ -464,7 +755,7 @@
 
       <section id="contact">
         <h2>Contact</h2>
-        <p>Room 435, SEIEE Building No.1, 800 Dongchuan Road, Shanghai, China.</p>
+        <p>Room 437, SEIEE Building No.1, 800 Dongchuan Road, Shanghai, China.</p>
         <p>Email: <a href="mailto:robinlu1209@sjtu.edu.cn">robinlu1209@sjtu.edu.cn</a></p>
         <footer>
           Last updated: June 2026. Hosted on GitHub Pages.
