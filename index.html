@@ -340,10 +340,51 @@
       font-size: 14.5px;
       line-height: 1.55;
     }
+    .pub .authors strong {
+      text-decoration: underline;
+      text-underline-offset: 2px;
+      text-decoration-thickness: 1px;
+    }
     .pub-meta {
       margin-top: 4px;
       color: #4b5563;
     }
+
+    .pub-title a {
+      color: #111827;
+      text-decoration: none;
+    }
+    .pub-title a:hover {
+      color: var(--accent);
+      text-decoration: underline;
+    }
+    .pub-links {
+      margin-top: 10px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .pub-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 4px 10px;
+      background: #fff;
+      color: #344054;
+      font-size: 12.5px;
+      font-weight: 700;
+      line-height: 1.35;
+      text-decoration: none;
+    }
+    .pub-btn:hover {
+      background: var(--soft);
+      border-color: var(--accent);
+      color: var(--accent-dark);
+      text-decoration: none;
+    }
+
     .tag {
       display: inline-block;
       margin-left: 6px;
@@ -533,11 +574,16 @@
 
           <article class="pub">
             <div class="pub-top">
-              <div class="pub-title">Compass: Navigating Global Marine Lead Data Integration through Expert-Guided LLM Agent</div>
+              <div class="pub-title"><a href="https://doi.org/10.48550/arXiv.2605.29966" target="_blank" rel="noopener">Compass: Navigating Global Marine Lead Data Integration through Expert-Guided LLM Agent</a></div>
               <span class="venue-badge">KDD 2026</span>
             </div>
             <div class="authors">Yiming Liu, <strong>Bin Lu*</strong>, Meng Jin, Ziyuan Sang, Shuo Jiang, Lei Zhou, Xinbing Wang, Chenghu Zhou, Jing Zhang</div>
             <div class="pub-meta">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2026. <span class="tag">CCF-A</span></div>
+            <div class="pub-links">
+              <a class="pub-btn" href="https://doi.org/10.48550/arXiv.2605.29966" target="_blank" rel="noopener" aria-label="Open DOI page for Compass">🔗 DOI</a>
+              <a class="pub-btn" href="https://arxiv.org/pdf/2605.29966" target="_blank" rel="noopener" aria-label="Open PDF for Compass">📄 PDF</a>
+              <a class="pub-btn" href="https://github.com/liuyiming01/COMPASS" target="_blank" rel="noopener" aria-label="Open code for Compass">💻 Code</a>
+            </div>
           </article>
 
           <article class="pub">
@@ -551,65 +597,100 @@
 
           <article class="pub">
             <div class="pub-top">
-              <div class="pub-title">Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle</div>
+              <div class="pub-title"><a href="https://openreview.net/forum?id=WceHgf9JOZ" target="_blank" rel="noopener">Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle</a></div>
               <span class="venue-badge">ICML 2026</span>
             </div>
             <div class="authors">Xu Bai, <strong>Bin Lu*</strong>, Kun Zhang, Shengbo Chen, Xinbing Wang, Chenghu Zhou, Meng Jin*</div>
             <div class="pub-meta">International Conference on Machine Learning, 2026. <span class="tag">CCF-A</span></div>
+            <div class="pub-links">
+              <a class="pub-btn" href="https://openreview.net/forum?id=WceHgf9JOZ" target="_blank" rel="noopener" aria-label="Open official page for NOPE">🔗 Page</a>
+              <a class="pub-btn" href="https://openreview.net/pdf?id=WceHgf9JOZ" target="_blank" rel="noopener" aria-label="Open PDF for NOPE">📄 PDF</a>
+              <a class="pub-btn" href="https://github.com/dazonglian/NOPE-main" target="_blank" rel="noopener" aria-label="Open code for NOPE">💻 Code</a>
+            </div>
           </article>
 
           <article class="pub">
             <div class="pub-top">
-              <div class="pub-title">Slash the Sink: Sharpening Structural Attention Inside LLMs</div>
+              <div class="pub-title"><a href="https://openreview.net/forum?id=To2n4qTdke" target="_blank" rel="noopener">SLASH the Sink: Sharpening Structural Attention Inside LLMs</a></div>
               <span class="venue-badge">ICML 2026</span>
             </div>
             <div class="authors">Yiming Liu, <strong>Bin Lu*</strong>, Xinbing Wang, Chenghu Zhou, Meng Jin*</div>
             <div class="pub-meta">International Conference on Machine Learning, 2026. <span class="tag">CCF-A</span></div>
+            <div class="pub-links">
+              <a class="pub-btn" href="https://openreview.net/forum?id=To2n4qTdke" target="_blank" rel="noopener" aria-label="Open official page for SLASH">🔗 Page</a>
+              <a class="pub-btn" href="https://openreview.net/pdf?id=To2n4qTdke" target="_blank" rel="noopener" aria-label="Open PDF for SLASH">📄 PDF</a>
+              <a class="pub-btn" href="https://github.com/liuyiming01/SLASH" target="_blank" rel="noopener" aria-label="Open code for SLASH">💻 Code</a>
+            </div>
           </article>
 
           <article class="pub">
             <div class="pub-top">
-              <div class="pub-title">&lt;SOG_k&gt;: One LLM Token for Explicit Graph Structural Understanding</div>
+              <div class="pub-title"><a href="https://openreview.net/forum?id=eXidGkRUFt" target="_blank" rel="noopener">&lt;SOG_k&gt;: One LLM Token for Explicit Graph Structural Understanding</a></div>
               <span class="venue-badge">ICLR 2026</span>
             </div>
             <div class="authors">Jingyao Wu, <strong>Bin Lu*</strong>, Zijun Di, Xiaoying Gan, Meng Jin, Luoyi Fu, Xinbing Wang, Chenghu Zhou</div>
             <div class="pub-meta">International Conference on Learning Representations, 2026. <span class="tag">CCF-A</span></div>
+            <div class="pub-links">
+              <a class="pub-btn" href="https://openreview.net/forum?id=eXidGkRUFt" target="_blank" rel="noopener" aria-label="Open official page for SOG_k">🔗 Page</a>
+              <a class="pub-btn" href="https://openreview.net/pdf?id=eXidGkRUFt" target="_blank" rel="noopener" aria-label="Open PDF for SOG_k">📄 PDF</a>
+              <a class="pub-btn" href="https://github.com/Jingyao-Wu/SOG" target="_blank" rel="noopener" aria-label="Open code for SOG_k">💻 Code</a>
+            </div>
           </article>
 
           <article class="pub">
             <div class="pub-top">
-              <div class="pub-title">OxyGenerator: Reconstructing Global Ocean Deoxygenation Over a Century with Deep Learning</div>
+              <div class="pub-title"><a href="https://proceedings.mlr.press/v235/lu24n.html" target="_blank" rel="noopener">OxyGenerator: Reconstructing Global Ocean Deoxygenation Over a Century with Deep Learning</a></div>
               <span class="venue-badge">ICML 2024</span>
             </div>
             <div class="authors"><strong>Bin Lu</strong>, Ze Zhao, Luyu Han, Xiaoying Gan, Yuntao Zhou, Lei Zhou, Luoyi Fu, Xinbing Wang, Chenghu Zhou, Jing Zhang</div>
             <div class="pub-meta">International Conference on Machine Learning, 2024. <span class="tag">CCF-A</span></div>
+            <div class="pub-links">
+              <a class="pub-btn" href="https://proceedings.mlr.press/v235/lu24n.html" target="_blank" rel="noopener" aria-label="Open official page for OxyGenerator">🔗 Page</a>
+              <a class="pub-btn" href="https://raw.githubusercontent.com/mlresearch/v235/main/assets/lu24n/lu24n.pdf" target="_blank" rel="noopener" aria-label="Open PDF for OxyGenerator">📄 PDF</a>
+              <a class="pub-btn" href="https://github.com/RobinLu1209/oxygenerator" target="_blank" rel="noopener" aria-label="Open code for OxyGenerator">💻 Code</a>
+            </div>
           </article>
 
           <article class="pub">
             <div class="pub-top">
-              <div class="pub-title">Graph Out-of-Distribution Generalization with Controllable Data Augmentation</div>
+              <div class="pub-title"><a href="https://doi.org/10.1109/TKDE.2024.3393109" target="_blank" rel="noopener">Graph Out-of-Distribution Generalization with Controllable Data Augmentation</a></div>
               <span class="venue-badge">TKDE 2024</span>
             </div>
             <div class="authors"><strong>Bin Lu</strong>, Ze Zhao, Xiaoying Gan, Shiyu Liang, Luoyi Fu, Xinbing Wang, Chenghu Zhou</div>
             <div class="pub-meta">IEEE Transactions on Knowledge and Data Engineering, 2024. <span class="tag">CCF-A</span></div>
+            <div class="pub-links">
+              <a class="pub-btn" href="https://doi.org/10.1109/TKDE.2024.3393109" target="_blank" rel="noopener" aria-label="Open DOI page for Graph OOD Generalization">🔗 DOI</a>
+              <a class="pub-btn" href="https://arxiv.org/pdf/2308.08344" target="_blank" rel="noopener" aria-label="Open PDF for Graph OOD Generalization">📄 PDF</a>
+              <a class="pub-btn" href="https://github.com/RobinLu1209/OOD-GMixup" target="_blank" rel="noopener" aria-label="Open code for Graph OOD Generalization">💻 Code</a>
+            </div>
           </article>
 
 
           <article class="pub">
             <div class="pub-top">
-              <div class="pub-title">Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer</div>
+              <div class="pub-title"><a href="https://doi.org/10.1145/3534678.3539281" target="_blank" rel="noopener">Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer</a></div>
               <span class="venue-badge">KDD 2022</span>
             </div>
             <div class="authors"><strong>Bin Lu</strong>, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang</div>
             <div class="pub-meta">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2022. <span class="tag">CCF-A</span></div>
+            <div class="pub-links">
+              <a class="pub-btn" href="https://doi.org/10.1145/3534678.3539281" target="_blank" rel="noopener" aria-label="Open DOI page for ST-GFSL">🔗 DOI</a>
+              <a class="pub-btn" href="https://arxiv.org/pdf/2205.13947" target="_blank" rel="noopener" aria-label="Open PDF for ST-GFSL">📄 PDF</a>
+              <a class="pub-btn" href="https://github.com/RobinLu1209/ST-GFSL" target="_blank" rel="noopener" aria-label="Open code for ST-GFSL">💻 Code</a>
+            </div>
           </article>
           <article class="pub">
             <div class="pub-top">
-              <div class="pub-title">Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation</div>
+              <div class="pub-title"><a href="https://doi.org/10.1145/3534678.3539280" target="_blank" rel="noopener">Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation</a></div>
               <span class="venue-badge">KDD 2022</span>
             </div>
-            <div class="authors"><strong>Bin Lu</strong>, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang</div>
+            <div class="authors"><strong>Bin Lu</strong>, Xiaoying Gan, Lina Yang, Weinan Zhang, Luoyi Fu, Xinbing Wang</div>
             <div class="pub-meta">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2022. <span class="tag">CCF-A</span></div>
+            <div class="pub-links">
+              <a class="pub-btn" href="https://doi.org/10.1145/3534678.3539280" target="_blank" rel="noopener" aria-label="Open DOI page for Geometer">🔗 DOI</a>
+              <a class="pub-btn" href="https://arxiv.org/pdf/2205.13954" target="_blank" rel="noopener" aria-label="Open PDF for Geometer">📄 PDF</a>
+              <a class="pub-btn" href="https://github.com/RobinLu1209/Geometer" target="_blank" rel="noopener" aria-label="Open code for Geometer">💻 Code</a>
+            </div>
           </article>
         </div>
 
