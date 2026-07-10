@@ -441,6 +441,30 @@
       color: var(--accent-dark);
       font-weight: 750;
     }
+
+    .visitor-stats {
+      margin-top: 18px;
+      padding-top: 16px;
+      border-top: 1px solid var(--line);
+      text-align: center;
+    }
+    .visitor-label {
+      margin-bottom: 8px;
+      color: var(--muted);
+      font-size: 12.5px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    .visitor-widget {
+      display: inline-block;
+      max-width: 100%;
+      overflow: hidden;
+      vertical-align: middle;
+    }
+    .visitor-widget-placeholder {
+      color: var(--muted);
+      font-size: 12.5px;
+    }
     footer {
       color: var(--muted);
       font-size: 13px;
@@ -838,8 +862,22 @@
         <h2>Contact</h2>
         <p>Room 437, SEIEE Building No.1, 800 Dongchuan Road, Shanghai, China.</p>
         <p>Email: <a href="mailto:robinlu1209@sjtu.edu.cn">robinlu1209@sjtu.edu.cn</a></p>
+      </section>
+
+      <section id="visitors">
+        <div class="visitor-stats">
+          <div class="visitor-label">Visitor Statistics</div>
+          <div class="visitor-widget" aria-label="Website visitor statistics">
+            <script type="text/javascript" id="clustrmaps"
+              src="https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=-MrFRY-MBf5P9USuoAfhOtuc63TCc8lVoFP1mPplWDg">
+            </script>
+            <noscript>
+              <span class="visitor-widget-placeholder">Enable JavaScript to view visitor statistics.</span>
+            </noscript>
+          </div>
+        </div>
         <footer>
-          Last updated: June 2026. Hosted on GitHub Pages.
+          Last updated: July 2026. Hosted on GitHub Pages.
         </footer>
       </section>
     </main>
