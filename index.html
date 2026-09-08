@@ -444,6 +444,35 @@
       font-weight: 750;
     }
 
+    .grant-list { list-style: none; padding: 0; margin: 0; }
+    .grant-item {
+      padding: 15px 0;
+      border-top: 1px solid #eef2f7;
+    }
+    .grant-item:first-child { border-top: none; padding-top: 0; }
+    .grant-period {
+      color: var(--muted);
+      font-size: 13.5px;
+      font-weight: 650;
+      margin-top: 4px;
+    }
+    .grant-title-en {
+      font-weight: 750;
+      font-size: 16px;
+      color: #111827;
+      line-height: 1.4;
+      margin-bottom: 4px;
+    }
+    .grant-title-cn {
+      color: #4b5563;
+      font-size: 14.5px;
+      margin-bottom: 6px;
+    }
+    .grant-source {
+      color: var(--muted);
+      font-size: 13.5px;
+    }
+
     .visitor-stats {
       margin-top: 18px;
       padding-top: 16px;
@@ -837,7 +866,10 @@
           <div class="cv-block wide">
             <h3>Awards</h3>
             <ul class="timeline">
+              <li><span class="year">2026</span><span>KDD 2026 AI for Science Track Best Paper Runner-Up.</span></li>
+              <li><span class="year">2025</span><span>ICDM 2025 Best Paper Award Finalist.</span></li>
               <li><span class="year">2025</span><span>Baidu Fellowship (10 awardees worldwide).</span></li>
+              <li><span class="year">2024</span><span>中国科协青年人才托举工程博士生专项计划（托举学会：中国电子学会）.</span></li>
               <li><span class="year">2024</span><span>National Scholarship, The Ministry of Education of China (国家奖学金).</span></li>
               <li><span class="year">2022</span><span>Wen-Tsun Wu AI Honorary Doctoral Scholarship, AI Institute of SJTU (吴文俊人工智能荣誉博士资助).</span></li>
               <li><span class="year">2022</span><span>National Scholarship, The Ministry of Education of China (国家奖学金).</span></li>
@@ -851,9 +883,23 @@
 
           <div class="cv-block wide">
             <h3>Grants</h3>
-            <ul class="timeline">
-              <li><span class="year">2024</span><span>Basic Research Project for PhD Students, National Natural Science Foundation of China（首届国家自然科学基金博士生项目）, Principal Investigator.</span></li>
-              <li><span class="year">2024</span><span>首届中国科协青年人才托举工程博士生专项计划（托举学会：中国电子学会）.</span></li>
+            <ul class="grant-list">
+              <li class="grant-item">
+                <div>
+                  <div class="grant-title-en">Spatiotemporal Foundation Models for Reconstructing Ocean Element Cycles</div>
+                  <div class="grant-title-cn">面向海洋元素循环重建的时空基座模型理论与方法研究</div>
+                  <div class="grant-source">National Natural Science Foundation of China (Youth Science Fund), Grant No. 62602003</div>
+                  <div class="grant-period">Jan 2027 – Dec 2029</div>
+                </div>
+              </li>
+              <li class="grant-item">
+                <div>
+                  <div class="grant-title-en">Data Mining and Reconstruction for Global Ocean Deoxygenation Over a Century</div>
+                  <div class="grant-title-cn">全球百年海洋缺氧大数据融合与重建</div>
+                  <div class="grant-source">National Natural Science Foundation of China (Basic Research Project for PhD Students), Grant No. 623B2071</div>
+                  <div class="grant-period">May 2024 – Dec 2025</div>
+                </div>
+              </li>
             </ul>
           </div>
         </div>
