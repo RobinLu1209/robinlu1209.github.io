@@ -18,6 +18,16 @@
     .note { color:var(--muted); margin:0; }
     .toolbar { display:flex; gap:12px; flex-wrap:wrap; margin-top:18px; }
     .btn { display:inline-block; border:1px solid var(--line); border-radius:999px; padding:6px 12px; background:var(--soft); font-weight:600; font-size:14px; }
+    .filter-panel { margin-top:20px; padding:14px 16px; border:1px solid var(--line); border-radius:12px; background:var(--soft); }
+    .filters { display:flex; align-items:center; gap:9px; flex-wrap:wrap; }
+    .filters + .filters { margin-top:10px; }
+    .filter-label { color:var(--muted); font-size:14px; font-weight:700; margin-right:2px; }
+    .filter-btn { appearance:none; border:1px solid var(--line); border-radius:999px; padding:7px 14px; background:#fff; color:var(--text); font:inherit; font-size:14px; font-weight:700; cursor:pointer; transition:background .15s ease,border-color .15s ease,color .15s ease,box-shadow .15s ease; }
+    .filter-btn:hover { border-color:var(--accent); color:var(--accent); }
+    .filter-btn:focus-visible { outline:3px solid rgba(0,91,172,.22); outline-offset:2px; }
+    .filter-btn.active { border-color:var(--accent); background:var(--accent); color:#fff; box-shadow:0 2px 8px rgba(0,91,172,.18); }
+    .filter-count { margin-left:4px; opacity:.72; font-weight:600; }
+    .filter-status { min-height:1.5em; margin:10px 0 0; color:var(--muted); font-size:14px; }
     .year-block { border:1px solid var(--line); border-radius:14px; margin:16px 0; background:#fff; overflow:hidden; }
     summary { cursor:pointer; list-style:none; display:flex; justify-content:space-between; align-items:center; padding:14px 18px; background:var(--soft); font-weight:800; color:var(--accent-dark); }
     summary::-webkit-details-marker { display:none; }
@@ -30,6 +40,11 @@
     .authors { color:var(--muted); font-size:14.5px; }
     .paper-title { font-weight:750; color:#111827; margin:2px 0; }
     .venue-line { color:var(--text); font-size:14.5px; }
+    .level-badge { display:inline-block; margin-left:7px; padding:1px 7px; border-radius:999px; color:#fff; font-size:11.5px; font-weight:800; line-height:1.55; vertical-align:1px; letter-spacing:.01em; white-space:nowrap; }
+    .level-ccf-a { background:#005bac; }
+    .level-ccf-b { background:#7356a8; }
+    .level-sci-q1 { background:#16805b; }
+    .level-sci-q2 { background:#b66a0a; }
     strong { color:#111827; font-weight:800; }
     .award { color:#d71920; font-weight:800; margin-top:3px; }
   </style>
@@ -38,7 +53,24 @@
   <main class="wrap">
     <header>
       <h1>Full Publications</h1>
-      <p class="note">An asterisk (*) denotes the corresponding author. The list is organized by year for easier browsing.</p>
+      <p class="note">An asterisk (*) denotes the corresponding author. Levels follow the 2026 CCF directory and the 2025 CAS journal ranking (major category).</p>
+      <div class="filter-panel">
+        <div class="filters" role="group" aria-label="Filter publications by authorship role">
+          <span class="filter-label">Authorship:</span>
+          <button class="filter-btn active" type="button" data-filter-group="authorship" data-filter="all" aria-pressed="true">All</button>
+          <button class="filter-btn" type="button" data-filter-group="authorship" data-filter="first" aria-pressed="false">First Author</button>
+          <button class="filter-btn" type="button" data-filter-group="authorship" data-filter="corresponding" aria-pressed="false">Corresponding Author</button>
+        </div>
+        <div class="filters" role="group" aria-label="Filter publications by level">
+          <span class="filter-label">Level:</span>
+          <button class="filter-btn active" type="button" data-filter-group="level" data-filter="all" aria-pressed="true">All</button>
+          <button class="filter-btn" type="button" data-filter-group="level" data-filter="ccf-a" aria-pressed="false">CCF-A <span class="filter-count"></span></button>
+          <button class="filter-btn" type="button" data-filter-group="level" data-filter="ccf-b" aria-pressed="false">CCF-B <span class="filter-count"></span></button>
+          <button class="filter-btn" type="button" data-filter-group="level" data-filter="sci-q1" aria-pressed="false">SCI-Q1 <span class="filter-count"></span></button>
+          <button class="filter-btn" type="button" data-filter-group="level" data-filter="sci-q2" aria-pressed="false">SCI-Q2 <span class="filter-count"></span></button>
+        </div>
+      </div>
+      <p class="filter-status" aria-live="polite"></p>
       <div class="toolbar">
         <a class="btn" href="../index.html">← Home</a>
         <a class="btn" href="https://scholar.google.com/">Google Scholar</a>
@@ -46,7 +78,7 @@
     </header>
 
         <details class="year-block" open>
-          <summary><span>2026</span><em>15 publications</em></summary>
+          <summary><span>2026</span><em aria-label="Publication count"></em></summary>
           <ol>
           <li class="pub-item">
             <div class="authors">Jianping Zhou, <strong>Bin Lu*</strong>, Haoyang Yue, Yimian Hu, Gu Tang, Ze Zhao, Zijun Di, Xinbing Wang</div>
@@ -87,27 +119,27 @@
           <li class="pub-item">
             <div class="authors">Xu Bai, <strong><strong>Bin Lu</strong>*</strong>, Kun Zhang, Shengbo Chen, Xinbing Wang, Chenghu Zhou, Meng Jin</div>
             <div class="paper-title">Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle</div>
-            <div class="venue-line">International Conference on Machine Learning (ICML), 2026. (CCF-A)</div>
+            <div class="venue-line">International Conference on Machine Learning (ICML), 2026.</div>
           </li>
           <li class="pub-item">
             <div class="authors">Yiming Liu, <strong><strong>Bin Lu</strong>*</strong>, Xinbing Wang, Chenghu Zhou, Meng Jin</div>
             <div class="paper-title">Slash the Sink: Sharpening Structural Attention Inside LLMs</div>
-            <div class="venue-line">International Conference on Machine Learning (ICML), 2026. (CCF-A)</div>
+            <div class="venue-line">International Conference on Machine Learning (ICML), 2026.</div>
           </li>
           <li class="pub-item">
             <div class="authors">Jingyao Wu, <strong><strong>Bin Lu</strong>*</strong>, Zijun Di, Xiaoying Gan, Meng Jin, Luoyi Fu, Xinbing Wang, Chenghu Zhou</div>
             <div class="paper-title">One LLM Token for Explicit Graph Structural Understanding</div>
-            <div class="venue-line">International Conference on Learning Representations (ICLR), 2026. (CCF-A)</div>
+            <div class="venue-line">International Conference on Learning Representations (ICLR), 2026.</div>
           </li>
           <li class="pub-item">
             <div class="authors">Ze Zhao, Yuhui He, Lyuwen Wu, Gu Tang, <strong>Bin Lu</strong>, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou</div>
             <div class="paper-title">Inductive Reasoning for Temporal Knowledge Graphs with Emerging Entities</div>
-            <div class="venue-line">International Conference on Learning Representations (ICLR), 2026. (CCF-A)</div>
+            <div class="venue-line">International Conference on Learning Representations (ICLR), 2026.</div>
           </li>
           <li class="pub-item">
             <div class="authors">Jianping Zhou, Weida Wang, <strong>Bin Lu</strong>, Guanjie Zheng, Lei Bai, Xinbing Wang, Chenghu Zhou</div>
             <div class="paper-title">TRACK: Temporal Decoupled Kriging for Inductive Spatio-temporal Graph</div>
-            <div class="venue-line">IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026. (CCF-A)</div>
+            <div class="venue-line">IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026.</div>
           </li>
           <li class="pub-item">
             <div class="authors"><strong>卢彬</strong>，甘小莺，甘雨，唐顾，马婷晏，吴律文，赵泽，傅洛伊，金梦，王新兵，周成虎</div>
@@ -127,7 +159,7 @@
           </ol>
         </details>
         <details class="year-block" open>
-          <summary><span>2025</span><em>10 publications</em></summary>
+          <summary><span>2025</span><em aria-label="Publication count"></em></summary>
           <ol>
           <li class="pub-item">
             <div class="authors">Xingyu Zhao, Jianpeng Qi, <strong>Bin Lu</strong>, Lei Zhou, Lei Cao, Junyu Dong, Yanwei Yu</div>
@@ -183,7 +215,7 @@
           </ol>
         </details>
         <details class="year-block" open>
-          <summary><span>2024</span><em>4 publications</em></summary>
+          <summary><span>2024</span><em aria-label="Publication count"></em></summary>
           <ol>
           <li class="pub-item">
             <div class="authors">Tingyan Ma, Wei Liu, <strong>Bin Lu</strong>, Xiaoying Gan, Yunqiang Zhu, Luoyi Fu, Chenghu Zhou</div>
@@ -208,7 +240,7 @@
           </ol>
         </details>
         <details class="year-block" open>
-          <summary><span>2023</span><em>2 publications</em></summary>
+          <summary><span>2023</span><em aria-label="Publication count"></em></summary>
           <ol>
           <li class="pub-item">
             <div class="authors">Lina Yang, <strong>Bin Lu</strong>, Xiaoying Gan</div>
@@ -223,7 +255,7 @@
           </ol>
         </details>
         <details class="year-block" open>
-          <summary><span>2022</span><em>3 publications</em></summary>
+          <summary><span>2022</span><em aria-label="Publication count"></em></summary>
           <ol>
           <li class="pub-item">
             <div class="authors"><strong>Bin Lu</strong>, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang</div>
@@ -243,7 +275,7 @@
           </ol>
         </details>
         <details class="year-block" open>
-          <summary><span>2020</span><em>1 publications</em></summary>
+          <summary><span>2020</span><em aria-label="Publication count"></em></summary>
           <ol>
           <li class="pub-item">
             <div class="authors"><strong>Bin Lu</strong>, Xiaoying Gan, Haiming Jin, Luoyi Fu, Haisong Zhang</div>
@@ -253,5 +285,106 @@
           </ol>
         </details>
   </main>
+  <script>
+    (() => {
+      const filterButtons = [...document.querySelectorAll('.filter-btn')];
+      const yearBlocks = [...document.querySelectorAll('.year-block')];
+      const publications = [...document.querySelectorAll('.pub-item')];
+      const status = document.querySelector('.filter-status');
+      const total = publications.length;
+      const activeFilters = { authorship: 'all', level: 'all' };
+      const levelLabels = {
+        'ccf-a': 'CCF-A',
+        'ccf-b': 'CCF-B',
+        'sci-q1': 'SCI-Q1',
+        'sci-q2': 'SCI-Q2'
+      };
+      const levelRules = [
+        { level: 'ccf-a', pattern: /ACM SIGKDD International Conference|International Conference on Machine Learning|International Conference on Learning Representations|IEEE Transactions on Knowledge and Data Engineering|ACM SIGIR Conference|IEEE International Conference on Data Engineering|International World Wide Web Conference|《计算机学报》/i },
+        { level: 'ccf-b', pattern: /ACM International Conference on Information and Knowledge Management|International Conference on Database Systems for Advanced Applications|IEEE International Conference on Data Mining|ACM Transactions on Knowledge Discovery from Data/i },
+        { level: 'sci-q1', pattern: /Earth System Science Data|Information Fusion|Global Biogeochemical Cycles/i },
+        { level: 'sci-q2', pattern: /Bulletin of the American Meteorological Society|Acta Oceanologica Sinica|Ocean Science|ACM Transactions on Intelligent Systems and Technology/i }
+      ];
+
+      publications.forEach((publication) => {
+        const authors = publication.querySelector('.authors')?.textContent.trim() || '';
+        const venueLine = publication.querySelector('.venue-line');
+        const venue = venueLine?.textContent.trim() || '';
+        publication.dataset.firstAuthor = /^(?:Bin Lu|卢彬)(?:\*|\s*[,，]|$)/.test(authors);
+        publication.dataset.correspondingAuthor = /(?:Bin Lu|卢彬)\s*\*/.test(authors);
+        publication.dataset.level = publication.dataset.level
+          || levelRules.find((rule) => rule.pattern.test(venue))?.level
+          || '';
+
+        if (publication.dataset.level && venueLine) {
+          const badge = document.createElement('span');
+          badge.className = `level-badge level-${publication.dataset.level}`;
+          badge.textContent = levelLabels[publication.dataset.level];
+          venueLine.appendChild(badge);
+        }
+      });
+
+      document.querySelectorAll('[data-filter-group="level"]').forEach((button) => {
+        const level = button.dataset.filter;
+        const count = button.querySelector('.filter-count');
+        if (level !== 'all' && count) {
+          const levelTotal = publications.filter((publication) => publication.dataset.level === level).length;
+          count.textContent = `(${levelTotal})`;
+        }
+      });
+
+      function applyFilters() {
+        let visibleTotal = 0;
+
+        yearBlocks.forEach((yearBlock) => {
+          const yearPublications = [...yearBlock.querySelectorAll('.pub-item')];
+          let visibleInYear = 0;
+
+          yearPublications.forEach((publication) => {
+            const authorshipMatches = activeFilters.authorship === 'all'
+              || (activeFilters.authorship === 'first' && publication.dataset.firstAuthor === 'true')
+              || (activeFilters.authorship === 'corresponding' && publication.dataset.correspondingAuthor === 'true');
+            const levelMatches = activeFilters.level === 'all'
+              || publication.dataset.level === activeFilters.level;
+            const isVisible = authorshipMatches && levelMatches;
+            publication.hidden = !isVisible;
+            if (isVisible) visibleInYear += 1;
+          });
+
+          yearBlock.hidden = visibleInYear === 0;
+          const count = yearBlock.querySelector('summary em');
+          if (count) {
+            count.textContent = activeFilters.authorship === 'all' && activeFilters.level === 'all'
+              ? `${yearPublications.length} publication${yearPublications.length === 1 ? '' : 's'}`
+              : `${visibleInYear} of ${yearPublications.length} publications`;
+          }
+          visibleTotal += visibleInYear;
+        });
+
+        const criteria = [];
+        if (activeFilters.authorship === 'first') criteria.push('first author');
+        if (activeFilters.authorship === 'corresponding') criteria.push('corresponding author');
+        if (activeFilters.level !== 'all') criteria.push(levelLabels[activeFilters.level]);
+        status.textContent = criteria.length
+          ? `Showing ${visibleTotal} publication${visibleTotal === 1 ? '' : 's'} matching ${criteria.join(' and ')}.`
+          : `Showing all ${total} publications.`;
+
+        filterButtons.forEach((button) => {
+          const active = button.dataset.filter === activeFilters[button.dataset.filterGroup];
+          button.classList.toggle('active', active);
+          button.setAttribute('aria-pressed', String(active));
+        });
+      }
+
+      filterButtons.forEach((button) => {
+        button.addEventListener('click', () => {
+          activeFilters[button.dataset.filterGroup] = button.dataset.filter;
+          applyFilters();
+        });
+      });
+
+      applyFilters();
+    })();
+  </script>
 </body>
 </html>
